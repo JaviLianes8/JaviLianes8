@@ -38,6 +38,8 @@ Published on PyPI, each one small, typed and dependency-free.
 [![taplimit](https://img.shields.io/pypi/v/taplimit?style=flat-square&logo=pypi&logoColor=white&label=taplimit&color=C0392B)](https://pypi.org/project/taplimit/)
 [![throttlebounce](https://img.shields.io/pypi/v/throttlebounce?style=flat-square&logo=pypi&logoColor=white&label=throttlebounce&color=C0392B)](https://pypi.org/project/throttlebounce/)
 [![dotreach](https://img.shields.io/pypi/v/dotreach?style=flat-square&logo=pypi&logoColor=white&label=dotreach&color=C0392B)](https://pypi.org/project/dotreach/)
+<!-- AUTO-LIB-BADGES -->
+
 
 - **[restful-checker](https://pypi.org/project/restful-checker/)** · checks a REST API against its OpenAPI spec and writes an HTML report.
 - **[json-pretty-diff](https://pypi.org/project/json-pretty-diff/)** · an HTML diff of two JSON documents.
@@ -45,6 +47,8 @@ Published on PyPI, each one small, typed and dependency-free.
 - **[taplimit](https://pypi.org/project/taplimit/)** · a thread-safe, in-process rate-limit decorator.
 - **[throttlebounce](https://pypi.org/project/throttlebounce/)** · sync debounce and throttle decorators.
 - **[dotreach](https://pypi.org/project/dotreach/)** · get, set and delete values in nested dicts and lists by a dotted path.
+<!-- AUTO-LIB-LIST -->
+
 
 ## Writing
 
