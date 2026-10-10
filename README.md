@@ -24,6 +24,10 @@ focused open-source Python libraries. Everything lives under
 - **[Teacade](https://lianes8studio.com/teacade)** · a teacup-tower puzzle, coming soon
 - **I Wanna Be a Supernova** · an arcade climb through a living sky &nbsp; ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white)
 
+## Apps
+
+- **[Confetii](https://lianes8studio.com)** · birthday reminders, one per person &nbsp; ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
+
 ## Open-source Python libraries
 
 Published on PyPI, each one small, typed and dependency-free.
@@ -33,6 +37,7 @@ Published on PyPI, each one small, typed and dependency-free.
 [![boolish](https://img.shields.io/pypi/v/boolish?style=flat-square&logo=pypi&logoColor=white&label=boolish&color=C0392B)](https://pypi.org/project/boolish/)
 [![taplimit](https://img.shields.io/pypi/v/taplimit?style=flat-square&logo=pypi&logoColor=white&label=taplimit&color=C0392B)](https://pypi.org/project/taplimit/)
 [![throttlebounce](https://img.shields.io/pypi/v/throttlebounce?style=flat-square&logo=pypi&logoColor=white&label=throttlebounce&color=C0392B)](https://pypi.org/project/throttlebounce/)
+[![dotreach](https://img.shields.io/pypi/v/dotreach?style=flat-square&logo=pypi&logoColor=white&label=dotreach&color=C0392B)](https://pypi.org/project/dotreach/)
 
 - **[restful-checker](https://pypi.org/project/restful-checker/)** · checks a REST API against its OpenAPI spec and writes an HTML report.
 - **[json-pretty-diff](https://pypi.org/project/json-pretty-diff/)** · an HTML diff of two JSON documents.
