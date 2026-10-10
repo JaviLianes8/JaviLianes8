@@ -44,6 +44,7 @@ Published on PyPI, each one small, typed and dependency-free.
 - **[boolish](https://pypi.org/project/boolish/)** · a typed stand-in for the `strtobool` removed from the standard library.
 - **[taplimit](https://pypi.org/project/taplimit/)** · a thread-safe, in-process rate-limit decorator.
 - **[throttlebounce](https://pypi.org/project/throttlebounce/)** · sync debounce and throttle decorators.
+- **[dotreach](https://pypi.org/project/dotreach/)** · get, set and delete values in nested dicts and lists by a dotted path.
 
 ## Writing
 
