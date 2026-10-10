@@ -18,8 +18,8 @@ focused open-source Python libraries. Everything lives under
 ## Games
 
 - **[Tied to the Beat](https://lianes8studio.com/tied)** · a rhythm game in 31 languages &nbsp; ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white)
-- **[Pidgeon Pocket](https://lianes8studio.com/pidgeon)** · a pigeon incremental with an editable pixel-art park &nbsp; ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
-- **[Maneki Mania](https://lianes8studio.com/maneki)** · a lucky cat and a slot machine &nbsp; ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
+- **[Pidgeon Pocket](https://lianes8studio.com/pidgeon)** · a pigeon incremental with an editable pixel-art park &nbsp; ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
+- **[Maneki Mania](https://lianes8studio.com/maneki)** · a lucky cat and a slot machine &nbsp; ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 - **[Pigeons Away](https://lianes8studio.com/pigeons-away)** · a rooftop logic puzzle &nbsp; ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 - **[Teacade](https://lianes8studio.com/teacade)** · a teacup-tower puzzle, coming soon
 - **I Wanna Be a Supernova** · an arcade climb through a living sky &nbsp; ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white)
@@ -42,7 +42,7 @@ Published on PyPI, each one small, typed and dependency-free.
 
 ## Writing
 
-- **Por y Para Siempre** · my first novel, on Amazon.
+- **[Por y Para Siempre](https://www.amazon.es/dp/B0HLTTTH3B)** · my first novel, on Amazon.
 
 ## Stack
 
