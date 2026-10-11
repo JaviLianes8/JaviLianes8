@@ -75,12 +75,12 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[listunsub](https://github.com/JaviLianes8/listunsub)** · parse and build email List-Unsubscribe headers
 - **[mediaparse](https://github.com/JaviLianes8/mediaparse)** · parse media type and Content-Type headers
 - **[permspolicy](https://github.com/JaviLianes8/permspolicy)** · parse and build the Permissions-Policy header
-- **preferhdr** · parse and build Prefer and Preference-Applied headers
-- **priorityheader** · parse and build the Priority header
+- **[preferhdr](https://github.com/JaviLianes8/preferhdr)** · parse and build Prefer and Preference-Applied headers
+- **[priorityheader](https://github.com/JaviLianes8/priorityheader)** · parse and build the Priority header
 - **[restful-checker](https://github.com/JaviLianes8/restful-checker)** · audits a REST API's design and reports issues · [PyPI](https://pypi.org/project/restful-checker/)
-- **retryheader** · parse and build the Retry-After header
-- **servertiming** · build and parse the Server-Timing header
-- **setcookie** · parse and build a single Set-Cookie header
+- **[retryheader](https://github.com/JaviLianes8/retryheader)** · parse and build the Retry-After header
+- **[servertiming](https://github.com/JaviLianes8/servertiming)** · build and parse the Server-Timing header
+- **[setcookie](https://github.com/JaviLianes8/setcookie)** · parse and build a single Set-Cookie header
 - **viaheader** · parse and build the HTTP Via header
 - **weblink** · parse and build the HTTP Link header
 
@@ -90,7 +90,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[geouri](https://github.com/JaviLianes8/geouri)** · parse and build geo: URIs
 - **[mailtourl](https://github.com/JaviLianes8/mailtourl)** · parse and build mailto: URIs
 - **[osc8link](https://github.com/JaviLianes8/osc8link)** · build, detect and strip OSC 8 hyperlinks
-- **srcset** · parse and build the HTML srcset attribute
+- **[srcset](https://github.com/JaviLianes8/srcset)** · parse and build the HTML srcset attribute
 - **teluri** · parse and build tel: URIs
 - **urlsyntax** · syntax-only HTTP URL validation and normalization
 
@@ -107,7 +107,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[humanjoin](https://github.com/JaviLianes8/humanjoin)** · join strings into a natural-language phrase
 - **[idcheck](https://github.com/JaviLianes8/idcheck)** · validate and parse UUID and ULID strings
 - **[secretmask](https://github.com/JaviLianes8/secretmask)** · redact secrets in strings and dicts before logging
-- **sniffbom** · detect, name and strip a Unicode byte-order mark
+- **[sniffbom](https://github.com/JaviLianes8/sniffbom)** · detect, name and strip a Unicode byte-order mark
 - **stripcontrol** · remove or detect control characters in text
 - **tabstops** · expand and unexpand tabs by column
 - **unidash** · fold Unicode punctuation to plain ASCII
@@ -129,7 +129,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[busdays](https://github.com/JaviLianes8/busdays)** · business-day arithmetic with weekend and holiday masks
 - **[durospan](https://github.com/JaviLianes8/durospan)** · convert human durations to and from seconds
 - **[nthweekday](https://github.com/JaviLianes8/nthweekday)** · find the nth weekday of a month
-- **stepdates** · iterate dates by day, week, month or year
+- **[stepdates](https://github.com/JaviLianes8/stepdates)** · iterate dates by day, week, month or year
 - **tzoffset** · parse and format numeric UTC offsets
 
 ### Files and paths
@@ -139,8 +139,8 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[durablewrite](https://github.com/JaviLianes8/durablewrite)** · durable, atomic cross-platform file writes
 - **[followtail](https://github.com/JaviLianes8/followtail)** · follow a growing file like tail -f
 - **[mimeguess](https://github.com/JaviLianes8/mimeguess)** · map file extensions to MIME types
-- **safejoin** · path-traversal-safe joining of base and parts
-- **shortenpath** · abbreviate a path to fit a width
+- **[safejoin](https://github.com/JaviLianes8/safejoin)** · path-traversal-safe joining of base and parts
+- **[shortenpath](https://github.com/JaviLianes8/shortenpath)** · abbreviate a path to fit a width
 - **[walkup](https://github.com/JaviLianes8/walkup)** · walk up directories to find a marker file
 
 ### Concurrency and control flow
