@@ -68,7 +68,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[contentdigest](https://github.com/JaviLianes8/contentdigest)** · build and verify Content-Digest headers
 - **[contentdisp](https://github.com/JaviLianes8/contentdisp)** · parse and build Content-Disposition headers
 - **[etag](https://github.com/JaviLianes8/etag)** · create, parse and compare HTTP ETags
-- **forwarded** · parse and build the Forwarded header
+- **[forwarded](https://github.com/JaviLianes8/forwarded)** · parse and build the Forwarded header
 - **hstsheader** · parse and build the Strict-Transport-Security header
 - **httpquoted** · codec for the HTTP quoted-string primitive
 - **httprange** · parse and build Range and Content-Range headers
@@ -87,7 +87,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 ### URIs and links
 
 - **[emailsyntax](https://github.com/JaviLianes8/emailsyntax)** · syntax-only email validation and normalization
-- **geouri** · parse and build geo: URIs
+- **[geouri](https://github.com/JaviLianes8/geouri)** · parse and build geo: URIs
 - **mailtourl** · parse and build mailto: URIs
 - **osc8link** · build, detect and strip OSC 8 hyperlinks
 - **srcset** · parse and build the HTML srcset attribute
@@ -137,7 +137,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[dirsize](https://github.com/JaviLianes8/dirsize)** · total size and file count of a directory
 - **[dupefind](https://github.com/JaviLianes8/dupefind)** · find duplicate files by staged hashing
 - **[durablewrite](https://github.com/JaviLianes8/durablewrite)** · durable, atomic cross-platform file writes
-- **followtail** · follow a growing file like tail -f
+- **[followtail](https://github.com/JaviLianes8/followtail)** · follow a growing file like tail -f
 - **[mimeguess](https://github.com/JaviLianes8/mimeguess)** · map file extensions to MIME types
 - **safejoin** · path-traversal-safe joining of base and parts
 - **shortenpath** · abbreviate a path to fit a width
