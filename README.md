@@ -17,37 +17,158 @@ focused open-source Python libraries. Everything lives under
 
 ## Games
 
-- **[Tied to the Beat](https://lianes8studio.com/tied)** · a rhythm game in 31 languages &nbsp; ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white)
-- **[Pidgeon Pocket](https://lianes8studio.com/pidgeon)** · a pigeon incremental with an editable pixel-art park &nbsp; ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
-- **[Maneki Mania](https://lianes8studio.com/maneki)** · a lucky cat and a slot machine &nbsp; ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
-- **[Pigeons Away](https://lianes8studio.com/pigeons-away)** · a rooftop logic puzzle &nbsp; ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
-- **[Teacade](https://lianes8studio.com/teacade)** · a teacup-tower puzzle, coming soon
-- **I Wanna Be a Supernova** · an arcade climb through a living sky &nbsp; ![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white)
+Some ship on PC and on phones. Each platform links to its own store.
+
+### PC games
+
+- **[Tied to the Beat](https://lianes8studio.com/tied)** · a rhythm game in 31 languages &nbsp; [![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/4316340/)
+- **[Pidgeon Pocket](https://lianes8studio.com/pidgeon)** · a pigeon incremental with an editable pixel-art park &nbsp; [![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/4852570/)
+- **[Maneki Mania](https://lianes8studio.com/maneki)** · a lucky cat and a slot machine &nbsp; [![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/4931850/)
+- **[I Wanna Be A Supernova](https://lianes8studio.com/supernova)** · an arcade climb through a living sky &nbsp; ![Steam · coming soon](https://img.shields.io/badge/Steam-coming_soon-1b2838?style=flat-square&logo=steam&logoColor=white)
+
+### Mobile games
+
+- **[Pidgeon Pocket](https://lianes8studio.com/pidgeon)** · the pixel-art park on your phone &nbsp; ![App Store · coming soon](https://img.shields.io/badge/App_Store-coming_soon-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play · coming soon](https://img.shields.io/badge/Google_Play-coming_soon-414141?style=flat-square&logo=googleplay&logoColor=white)
+- **[Maneki Mania](https://lianes8studio.com/maneki)** · the lucky cat on your phone &nbsp; ![App Store · coming soon](https://img.shields.io/badge/App_Store-coming_soon-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play · coming soon](https://img.shields.io/badge/Google_Play-coming_soon-414141?style=flat-square&logo=googleplay&logoColor=white)
+- **[Pigeons Away](https://lianes8studio.com/pigeons-away)** · a rooftop logic puzzle &nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6820260189) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jlianes.palomasfuera)
+- **[Two Winds](https://lianes8studio.com/two-winds)** · a wind and currents puzzle &nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6821148614) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jlianes.twowinds)
+- **[Teacade](https://lianes8studio.com/teacade)** · a teacup-tower puzzle &nbsp; [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jlianes.teacade) ![App Store · coming soon](https://img.shields.io/badge/App_Store-coming_soon-0D96F6?style=flat-square&logo=appstore&logoColor=white)
+- **[I Wanna Be A Supernova](https://lianes8studio.com/supernova)** · the arcade climb on your phone &nbsp; ![App Store · coming soon](https://img.shields.io/badge/App_Store-coming_soon-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play · coming soon](https://img.shields.io/badge/Google_Play-coming_soon-414141?style=flat-square&logo=googleplay&logoColor=white)
 
 ## Apps
 
 - **[Confetii](https://lianes8studio.com)** · birthday reminders, one per person &nbsp; ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 
-## Open-source Python libraries
+## Open source: 100 Python libraries
 
-Published on PyPI, each one small, typed and dependency-free.
+I keep publishing small, single-purpose Python libraries, each one typed and free of third-party dependencies. The full catalogue lives on the [open-source hub](https://lianes8studio.com/open-source).
 
-[![restful-checker](https://img.shields.io/pypi/v/restful-checker?style=flat-square&logo=pypi&logoColor=white&label=restful-checker&color=C0392B)](https://pypi.org/project/restful-checker/)
-[![json-pretty-diff](https://img.shields.io/pypi/v/json-pretty-diff?style=flat-square&logo=pypi&logoColor=white&label=json-pretty-diff&color=C0392B)](https://pypi.org/project/json-pretty-diff/)
-[![boolish](https://img.shields.io/pypi/v/boolish?style=flat-square&logo=pypi&logoColor=white&label=boolish&color=C0392B)](https://pypi.org/project/boolish/)
-[![taplimit](https://img.shields.io/pypi/v/taplimit?style=flat-square&logo=pypi&logoColor=white&label=taplimit&color=C0392B)](https://pypi.org/project/taplimit/)
-[![throttlebounce](https://img.shields.io/pypi/v/throttlebounce?style=flat-square&logo=pypi&logoColor=white&label=throttlebounce&color=C0392B)](https://pypi.org/project/throttlebounce/)
-[![dotreach](https://img.shields.io/pypi/v/dotreach?style=flat-square&logo=pypi&logoColor=white&label=dotreach&color=C0392B)](https://pypi.org/project/dotreach/)
-<!-- AUTO-LIB-BADGES -->
+### LabVIEW bridge
 
+- **[lvbitpack](https://github.com/JaviLianes8/lvbitpack)** · pack LabVIEW boolean arrays to bits
+- **[lvconfig](https://github.com/JaviLianes8/lvconfig)** · read and write LabVIEW config files
+- **[lverror](https://github.com/JaviLianes8/lverror)** · look up LabVIEW error codes offline
+- **[lvext](https://github.com/JaviLianes8/lvext)** · pack 80-bit extended-precision floats
+- **[lvflatten](https://github.com/JaviLianes8/lvflatten)** · codec for LabVIEW Flatten To String
+- **[lvfxp](https://github.com/JaviLianes8/lvfxp)** · encode and decode LabVIEW fixed-point numbers
+- **[lvjson](https://github.com/JaviLianes8/lvjson)** · normalise LabVIEW Flatten To JSON output
+- **[lvmio](https://github.com/JaviLianes8/lvmio)** · read and write LabVIEW .lvm files
+- **[lvpath](https://github.com/JaviLianes8/lvpath)** · convert LabVIEW paths to native paths
+- **[lvtime](https://github.com/JaviLianes8/lvtime)** · LabVIEW 128-bit timestamp to datetime
+- **[lvtypedesc](https://github.com/JaviLianes8/lvtypedesc)** · parse LabVIEW type-descriptor byte strings
+- **[lvxml](https://github.com/JaviLianes8/lvxml)** · codec for LabVIEW Flatten To XML
+- **[tdmread](https://github.com/JaviLianes8/tdmread)** · read NI TDM and TDX files
 
-- **[restful-checker](https://pypi.org/project/restful-checker/)** · checks a REST API against its OpenAPI spec and writes an HTML report.
-- **[json-pretty-diff](https://pypi.org/project/json-pretty-diff/)** · an HTML diff of two JSON documents.
-- **[boolish](https://pypi.org/project/boolish/)** · a typed stand-in for the `strtobool` removed from the standard library.
-- **[taplimit](https://pypi.org/project/taplimit/)** · a thread-safe, in-process rate-limit decorator.
-- **[throttlebounce](https://pypi.org/project/throttlebounce/)** · sync debounce and throttle decorators.
-- **[dotreach](https://pypi.org/project/dotreach/)** · get, set and delete values in nested dicts and lists by a dotted path.
-<!-- AUTO-LIB-LIST -->
+### HTTP and web headers
+
+- **[altsvc](https://github.com/JaviLianes8/altsvc)** · parse and build the Alt-Svc header
+- **[authchallenge](https://github.com/JaviLianes8/authchallenge)** · parse WWW-Authenticate and Authorization headers
+- **[ccdirectives](https://github.com/JaviLianes8/ccdirectives)** · parse and build the Cache-Control header
+- **[chunkedte](https://github.com/JaviLianes8/chunkedte)** · codec for HTTP/1.1 chunked transfer-encoding
+- **[contentdigest](https://github.com/JaviLianes8/contentdigest)** · build and verify Content-Digest headers
+- **[contentdisp](https://github.com/JaviLianes8/contentdisp)** · parse and build Content-Disposition headers
+- **[etag](https://github.com/JaviLianes8/etag)** · create, parse and compare HTTP ETags
+- **[forwarded](https://github.com/JaviLianes8/forwarded)** · parse and build the Forwarded header
+- **[hstsheader](https://github.com/JaviLianes8/hstsheader)** · parse and build the Strict-Transport-Security header
+- **[httpquoted](https://github.com/JaviLianes8/httpquoted)** · codec for the HTTP quoted-string primitive
+- **[httprange](https://github.com/JaviLianes8/httprange)** · parse and build Range and Content-Range headers
+- **[listunsub](https://github.com/JaviLianes8/listunsub)** · parse and build email List-Unsubscribe headers
+- **[mediaparse](https://github.com/JaviLianes8/mediaparse)** · parse media type and Content-Type headers
+- **[permspolicy](https://github.com/JaviLianes8/permspolicy)** · parse and build the Permissions-Policy header
+- **[preferhdr](https://github.com/JaviLianes8/preferhdr)** · parse and build Prefer and Preference-Applied headers
+- **[priorityheader](https://github.com/JaviLianes8/priorityheader)** · parse and build the Priority header
+- **[restful-checker](https://github.com/JaviLianes8/restful-checker)** · audits a REST API's design and reports issues · [PyPI](https://pypi.org/project/restful-checker/)
+- **[retryheader](https://github.com/JaviLianes8/retryheader)** · parse and build the Retry-After header
+- **[servertiming](https://github.com/JaviLianes8/servertiming)** · build and parse the Server-Timing header
+- **[setcookie](https://github.com/JaviLianes8/setcookie)** · parse and build a single Set-Cookie header
+- **[viaheader](https://github.com/JaviLianes8/viaheader)** · parse and build the HTTP Via header
+- **[weblink](https://github.com/JaviLianes8/weblink)** · parse and build the HTTP Link header
+
+### URIs and links
+
+- **[emailsyntax](https://github.com/JaviLianes8/emailsyntax)** · syntax-only email validation and normalization
+- **[geouri](https://github.com/JaviLianes8/geouri)** · parse and build geo: URIs
+- **[mailtourl](https://github.com/JaviLianes8/mailtourl)** · parse and build mailto: URIs
+- **[osc8link](https://github.com/JaviLianes8/osc8link)** · build, detect and strip OSC 8 hyperlinks
+- **[srcset](https://github.com/JaviLianes8/srcset)** · parse and build the HTML srcset attribute
+- **[teluri](https://github.com/JaviLianes8/teluri)** · parse and build tel: URIs
+- **[urlsyntax](https://github.com/JaviLianes8/urlsyntax)** · syntax-only HTTP URL validation and normalization
+
+### Text and encoding
+
+- **[bytetrunc](https://github.com/JaviLianes8/bytetrunc)** · truncate a string to a UTF-8 byte limit
+- **[cellstr](https://github.com/JaviLianes8/cellstr)** · display-width aware len, slice and pad
+- **[colfit](https://github.com/JaviLianes8/colfit)** · arrange strings into fitted terminal columns
+- **[colorsupport](https://github.com/JaviLianes8/colorsupport)** · detect a terminal stream color level
+- **[crock](https://github.com/JaviLianes8/crock)** · Crockford base32 for bytes and ints
+- **[ellipt](https://github.com/JaviLianes8/ellipt)** · truncate strings with a start, middle or end ellipsis
+- **[eolnorm](https://github.com/JaviLianes8/eolnorm)** · detect, normalize and count line endings
+- **[hexrgba](https://github.com/JaviLianes8/hexrgba)** · parse and normalize CSS hex colors
+- **[humanjoin](https://github.com/JaviLianes8/humanjoin)** · join strings into a natural-language phrase
+- **[idcheck](https://github.com/JaviLianes8/idcheck)** · validate and parse UUID and ULID strings
+- **[secretmask](https://github.com/JaviLianes8/secretmask)** · redact secrets in strings and dicts before logging
+- **[sniffbom](https://github.com/JaviLianes8/sniffbom)** · detect, name and strip a Unicode byte-order mark
+- **[stripcontrol](https://github.com/JaviLianes8/stripcontrol)** · remove or detect control characters in text
+- **[tabstops](https://github.com/JaviLianes8/tabstops)** · expand and unexpand tabs by column
+- **[unidash](https://github.com/JaviLianes8/unidash)** · fold Unicode punctuation to plain ASCII
+- **[zerowidth](https://github.com/JaviLianes8/zerowidth)** · detect and strip zero-width characters
+
+### Numbers and units
+
+- **[a1col](https://github.com/JaviLianes8/a1col)** · convert spreadsheet A1 references and indexes
+- **[bytesz](https://github.com/JaviLianes8/bytesz)** · convert byte counts to and from human sizes
+- **[compactnum](https://github.com/JaviLianes8/compactnum)** · format and parse compact numbers (1.2k, 3.5M)
+- **[indgroup](https://github.com/JaviLianes8/indgroup)** · format numbers in lakh and crore grouping
+- **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists
+- **[moneyparse](https://github.com/JaviLianes8/moneyparse)** · parse money strings into exact Decimal amounts
+- **[sigfigs](https://github.com/JaviLianes8/sigfigs)** · significant-figures rounding and formatting
+- **[wordsnum](https://github.com/JaviLianes8/wordsnum)** · parse spelled-out English numbers to int or float
+
+### Dates and time
+
+- **[busdays](https://github.com/JaviLianes8/busdays)** · business-day arithmetic with weekend and holiday masks
+- **[durospan](https://github.com/JaviLianes8/durospan)** · convert human durations to and from seconds
+- **[nthweekday](https://github.com/JaviLianes8/nthweekday)** · find the nth weekday of a month
+- **[stepdates](https://github.com/JaviLianes8/stepdates)** · iterate dates by day, week, month or year
+- **[tzoffset](https://github.com/JaviLianes8/tzoffset)** · parse and format numeric UTC offsets
+
+### Files and paths
+
+- **[dirsize](https://github.com/JaviLianes8/dirsize)** · total size and file count of a directory
+- **[dupefind](https://github.com/JaviLianes8/dupefind)** · find duplicate files by staged hashing
+- **[durablewrite](https://github.com/JaviLianes8/durablewrite)** · durable, atomic cross-platform file writes
+- **[followtail](https://github.com/JaviLianes8/followtail)** · follow a growing file like tail -f
+- **[mimeguess](https://github.com/JaviLianes8/mimeguess)** · map file extensions to MIME types
+- **[safejoin](https://github.com/JaviLianes8/safejoin)** · path-traversal-safe joining of base and parts
+- **[shortenpath](https://github.com/JaviLianes8/shortenpath)** · abbreviate a path to fit a width
+- **[walkup](https://github.com/JaviLianes8/walkup)** · walk up directories to find a marker file
+
+### Concurrency and control flow
+
+- **[atomicint](https://github.com/JaviLianes8/atomicint)** · thread-safe atomic integer
+- **[backoffs](https://github.com/JaviLianes8/backoffs)** · pure backoff delay iterator with jitter
+- **[calltimeout](https://github.com/JaviLianes8/calltimeout)** · run a callable with a wall-clock timeout
+- **[deadliner](https://github.com/JaviLianes8/deadliner)** · monotonic deadline and time-budget primitive
+- **[keyedlock](https://github.com/JaviLianes8/keyedlock)** · lock by key, parallel across different keys
+- **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives
+- **[periodictimer](https://github.com/JaviLianes8/periodictimer)** · drift-free repeating timer on a thread
+- **[taplimit](https://github.com/JaviLianes8/taplimit)** · small typed token-bucket rate limiter · [PyPI](https://pypi.org/project/taplimit/)
+- **[threadfan](https://github.com/JaviLianes8/threadfan)** · ordered parallel map over a thread pool
+- **[throttlebounce](https://github.com/JaviLianes8/throttlebounce)** · typed throttle and debounce decorators · [PyPI](https://pypi.org/project/throttlebounce/)
+- **[timedbatch](https://github.com/JaviLianes8/timedbatch)** · batch items by count and time window
+
+### Config, CLI and data
+
+- **[authkeyline](https://github.com/JaviLianes8/authkeyline)** · parse OpenSSH authorized_keys lines into records
+- **[boolish](https://github.com/JaviLianes8/boolish)** · parse truthy and falsy strings to bool · [PyPI](https://pypi.org/project/boolish/)
+- **[dotreach](https://github.com/JaviLianes8/dotreach)** · get and set nested values by dotted path · [PyPI](https://pypi.org/project/dotreach/)
+- **[envname](https://github.com/JaviLianes8/envname)** · validate and sanitize environment variable names
+- **[json-pretty-diff](https://github.com/JaviLianes8/json-pretty-diff)** · human-readable structural diff of two JSON documents · [PyPI](https://pypi.org/project/json-pretty-diff/)
+- **[logfmtkv](https://github.com/JaviLianes8/logfmtkv)** · parse and serialize logfmt key=value lines
+- **[postalcheck](https://github.com/JaviLianes8/postalcheck)** · validate and normalize postal codes by country
+- **[shtemplate](https://github.com/JaviLianes8/shtemplate)** · POSIX shell-style string expansion over a mapping
+- **[typedenv](https://github.com/JaviLianes8/typedenv)** · typed reader for environment variables
+- **[typedmultidict](https://github.com/JaviLianes8/typedmultidict)** · typed ordered multi-value dictionary
 
 
 ## Writing
