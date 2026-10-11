@@ -69,9 +69,9 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[contentdisp](https://github.com/JaviLianes8/contentdisp)** · parse and build Content-Disposition headers
 - **[etag](https://github.com/JaviLianes8/etag)** · create, parse and compare HTTP ETags
 - **[forwarded](https://github.com/JaviLianes8/forwarded)** · parse and build the Forwarded header
-- **hstsheader** · parse and build the Strict-Transport-Security header
-- **httpquoted** · codec for the HTTP quoted-string primitive
-- **httprange** · parse and build Range and Content-Range headers
+- **[hstsheader](https://github.com/JaviLianes8/hstsheader)** · parse and build the Strict-Transport-Security header
+- **[httpquoted](https://github.com/JaviLianes8/httpquoted)** · codec for the HTTP quoted-string primitive
+- **[httprange](https://github.com/JaviLianes8/httprange)** · parse and build Range and Content-Range headers
 - **listunsub** · parse and build email List-Unsubscribe headers
 - **mediaparse** · parse media type and Content-Type headers
 - **permspolicy** · parse and build the Permissions-Policy header
@@ -104,8 +104,8 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[ellipt](https://github.com/JaviLianes8/ellipt)** · truncate strings with a start, middle or end ellipsis
 - **[eolnorm](https://github.com/JaviLianes8/eolnorm)** · detect, normalize and count line endings
 - **[hexrgba](https://github.com/JaviLianes8/hexrgba)** · parse and normalize CSS hex colors
-- **humanjoin** · join strings into a natural-language phrase
-- **idcheck** · validate and parse UUID and ULID strings
+- **[humanjoin](https://github.com/JaviLianes8/humanjoin)** · join strings into a natural-language phrase
+- **[idcheck](https://github.com/JaviLianes8/idcheck)** · validate and parse UUID and ULID strings
 - **[secretmask](https://github.com/JaviLianes8/secretmask)** · redact secrets in strings and dicts before logging
 - **sniffbom** · detect, name and strip a Unicode byte-order mark
 - **stripcontrol** · remove or detect control characters in text
@@ -118,7 +118,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[a1col](https://github.com/JaviLianes8/a1col)** · convert spreadsheet A1 references and indexes
 - **[bytesz](https://github.com/JaviLianes8/bytesz)** · convert byte counts to and from human sizes
 - **[compactnum](https://github.com/JaviLianes8/compactnum)** · format and parse compact numbers (1.2k, 3.5M)
-- **indgroup** · format numbers in lakh and crore grouping
+- **[indgroup](https://github.com/JaviLianes8/indgroup)** · format numbers in lakh and crore grouping
 - **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists
 - **moneyparse** · parse money strings into exact Decimal amounts
 - **[sigfigs](https://github.com/JaviLianes8/sigfigs)** · significant-figures rounding and formatting
@@ -149,7 +149,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[backoffs](https://github.com/JaviLianes8/backoffs)** · pure backoff delay iterator with jitter
 - **[calltimeout](https://github.com/JaviLianes8/calltimeout)** · run a callable with a wall-clock timeout
 - **[deadliner](https://github.com/JaviLianes8/deadliner)** · monotonic deadline and time-budget primitive
-- **keyedlock** · lock by key, parallel across different keys
+- **[keyedlock](https://github.com/JaviLianes8/keyedlock)** · lock by key, parallel across different keys
 - **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives
 - **periodictimer** · drift-free repeating timer on a thread
 - **[taplimit](https://github.com/JaviLianes8/taplimit)** · small typed token-bucket rate limiter · [PyPI](https://pypi.org/project/taplimit/)
