@@ -68,31 +68,31 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[contentdigest](https://github.com/JaviLianes8/contentdigest)** · build and verify Content-Digest headers
 - **[contentdisp](https://github.com/JaviLianes8/contentdisp)** · parse and build Content-Disposition headers
 - **[etag](https://github.com/JaviLianes8/etag)** · create, parse and compare HTTP ETags
-- **[forwarded](https://github.com/JaviLianes8/forwarded)** · parse and build the Forwarded header
-- **[hstsheader](https://github.com/JaviLianes8/hstsheader)** · parse and build the Strict-Transport-Security header
-- **[httpquoted](https://github.com/JaviLianes8/httpquoted)** · codec for the HTTP quoted-string primitive
-- **[httprange](https://github.com/JaviLianes8/httprange)** · parse and build Range and Content-Range headers
-- **[listunsub](https://github.com/JaviLianes8/listunsub)** · parse and build email List-Unsubscribe headers
-- **[mediaparse](https://github.com/JaviLianes8/mediaparse)** · parse media type and Content-Type headers
-- **[permspolicy](https://github.com/JaviLianes8/permspolicy)** · parse and build the Permissions-Policy header
-- **[preferhdr](https://github.com/JaviLianes8/preferhdr)** · parse and build Prefer and Preference-Applied headers
-- **[priorityheader](https://github.com/JaviLianes8/priorityheader)** · parse and build the Priority header
+- **forwarded** · parse and build the Forwarded header
+- **hstsheader** · parse and build the Strict-Transport-Security header
+- **httpquoted** · codec for the HTTP quoted-string primitive
+- **httprange** · parse and build Range and Content-Range headers
+- **listunsub** · parse and build email List-Unsubscribe headers
+- **mediaparse** · parse media type and Content-Type headers
+- **permspolicy** · parse and build the Permissions-Policy header
+- **preferhdr** · parse and build Prefer and Preference-Applied headers
+- **priorityheader** · parse and build the Priority header
 - **[restful-checker](https://github.com/JaviLianes8/restful-checker)** · audits a REST API's design and reports issues · [PyPI](https://pypi.org/project/restful-checker/)
-- **[retryheader](https://github.com/JaviLianes8/retryheader)** · parse and build the Retry-After header
-- **[servertiming](https://github.com/JaviLianes8/servertiming)** · build and parse the Server-Timing header
-- **[setcookie](https://github.com/JaviLianes8/setcookie)** · parse and build a single Set-Cookie header
-- **[viaheader](https://github.com/JaviLianes8/viaheader)** · parse and build the HTTP Via header
-- **[weblink](https://github.com/JaviLianes8/weblink)** · parse and build the HTTP Link header
+- **retryheader** · parse and build the Retry-After header
+- **servertiming** · build and parse the Server-Timing header
+- **setcookie** · parse and build a single Set-Cookie header
+- **viaheader** · parse and build the HTTP Via header
+- **weblink** · parse and build the HTTP Link header
 
 ### URIs and links
 
 - **[emailsyntax](https://github.com/JaviLianes8/emailsyntax)** · syntax-only email validation and normalization
-- **[geouri](https://github.com/JaviLianes8/geouri)** · parse and build geo: URIs
-- **[mailtourl](https://github.com/JaviLianes8/mailtourl)** · parse and build mailto: URIs
-- **[osc8link](https://github.com/JaviLianes8/osc8link)** · build, detect and strip OSC 8 hyperlinks
-- **[srcset](https://github.com/JaviLianes8/srcset)** · parse and build the HTML srcset attribute
-- **[teluri](https://github.com/JaviLianes8/teluri)** · parse and build tel: URIs
-- **[urlsyntax](https://github.com/JaviLianes8/urlsyntax)** · syntax-only HTTP URL validation and normalization
+- **geouri** · parse and build geo: URIs
+- **mailtourl** · parse and build mailto: URIs
+- **osc8link** · build, detect and strip OSC 8 hyperlinks
+- **srcset** · parse and build the HTML srcset attribute
+- **teluri** · parse and build tel: URIs
+- **urlsyntax** · syntax-only HTTP URL validation and normalization
 
 ### Text and encoding
 
@@ -104,43 +104,43 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[ellipt](https://github.com/JaviLianes8/ellipt)** · truncate strings with a start, middle or end ellipsis
 - **[eolnorm](https://github.com/JaviLianes8/eolnorm)** · detect, normalize and count line endings
 - **[hexrgba](https://github.com/JaviLianes8/hexrgba)** · parse and normalize CSS hex colors
-- **[humanjoin](https://github.com/JaviLianes8/humanjoin)** · join strings into a natural-language phrase
-- **[idcheck](https://github.com/JaviLianes8/idcheck)** · validate and parse UUID and ULID strings
+- **humanjoin** · join strings into a natural-language phrase
+- **idcheck** · validate and parse UUID and ULID strings
 - **[secretmask](https://github.com/JaviLianes8/secretmask)** · redact secrets in strings and dicts before logging
-- **[sniffbom](https://github.com/JaviLianes8/sniffbom)** · detect, name and strip a Unicode byte-order mark
-- **[stripcontrol](https://github.com/JaviLianes8/stripcontrol)** · remove or detect control characters in text
-- **[tabstops](https://github.com/JaviLianes8/tabstops)** · expand and unexpand tabs by column
-- **[unidash](https://github.com/JaviLianes8/unidash)** · fold Unicode punctuation to plain ASCII
-- **[zerowidth](https://github.com/JaviLianes8/zerowidth)** · detect and strip zero-width characters
+- **sniffbom** · detect, name and strip a Unicode byte-order mark
+- **stripcontrol** · remove or detect control characters in text
+- **tabstops** · expand and unexpand tabs by column
+- **unidash** · fold Unicode punctuation to plain ASCII
+- **zerowidth** · detect and strip zero-width characters
 
 ### Numbers and units
 
 - **[a1col](https://github.com/JaviLianes8/a1col)** · convert spreadsheet A1 references and indexes
 - **[bytesz](https://github.com/JaviLianes8/bytesz)** · convert byte counts to and from human sizes
 - **[compactnum](https://github.com/JaviLianes8/compactnum)** · format and parse compact numbers (1.2k, 3.5M)
-- **[indgroup](https://github.com/JaviLianes8/indgroup)** · format numbers in lakh and crore grouping
+- **indgroup** · format numbers in lakh and crore grouping
 - **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists
-- **[moneyparse](https://github.com/JaviLianes8/moneyparse)** · parse money strings into exact Decimal amounts
+- **moneyparse** · parse money strings into exact Decimal amounts
 - **[sigfigs](https://github.com/JaviLianes8/sigfigs)** · significant-figures rounding and formatting
-- **[wordsnum](https://github.com/JaviLianes8/wordsnum)** · parse spelled-out English numbers to int or float
+- **wordsnum** · parse spelled-out English numbers to int or float
 
 ### Dates and time
 
 - **[busdays](https://github.com/JaviLianes8/busdays)** · business-day arithmetic with weekend and holiday masks
 - **[durospan](https://github.com/JaviLianes8/durospan)** · convert human durations to and from seconds
-- **[nthweekday](https://github.com/JaviLianes8/nthweekday)** · find the nth weekday of a month
-- **[stepdates](https://github.com/JaviLianes8/stepdates)** · iterate dates by day, week, month or year
-- **[tzoffset](https://github.com/JaviLianes8/tzoffset)** · parse and format numeric UTC offsets
+- **nthweekday** · find the nth weekday of a month
+- **stepdates** · iterate dates by day, week, month or year
+- **tzoffset** · parse and format numeric UTC offsets
 
 ### Files and paths
 
 - **[dirsize](https://github.com/JaviLianes8/dirsize)** · total size and file count of a directory
 - **[dupefind](https://github.com/JaviLianes8/dupefind)** · find duplicate files by staged hashing
 - **[durablewrite](https://github.com/JaviLianes8/durablewrite)** · durable, atomic cross-platform file writes
-- **[followtail](https://github.com/JaviLianes8/followtail)** · follow a growing file like tail -f
+- **followtail** · follow a growing file like tail -f
 - **[mimeguess](https://github.com/JaviLianes8/mimeguess)** · map file extensions to MIME types
-- **[safejoin](https://github.com/JaviLianes8/safejoin)** · path-traversal-safe joining of base and parts
-- **[shortenpath](https://github.com/JaviLianes8/shortenpath)** · abbreviate a path to fit a width
+- **safejoin** · path-traversal-safe joining of base and parts
+- **shortenpath** · abbreviate a path to fit a width
 - **[walkup](https://github.com/JaviLianes8/walkup)** · walk up directories to find a marker file
 
 ### Concurrency and control flow
@@ -149,13 +149,13 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[backoffs](https://github.com/JaviLianes8/backoffs)** · pure backoff delay iterator with jitter
 - **[calltimeout](https://github.com/JaviLianes8/calltimeout)** · run a callable with a wall-clock timeout
 - **[deadliner](https://github.com/JaviLianes8/deadliner)** · monotonic deadline and time-budget primitive
-- **[keyedlock](https://github.com/JaviLianes8/keyedlock)** · lock by key, parallel across different keys
+- **keyedlock** · lock by key, parallel across different keys
 - **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives
-- **[periodictimer](https://github.com/JaviLianes8/periodictimer)** · drift-free repeating timer on a thread
+- **periodictimer** · drift-free repeating timer on a thread
 - **[taplimit](https://github.com/JaviLianes8/taplimit)** · small typed token-bucket rate limiter · [PyPI](https://pypi.org/project/taplimit/)
-- **[threadfan](https://github.com/JaviLianes8/threadfan)** · ordered parallel map over a thread pool
+- **threadfan** · ordered parallel map over a thread pool
 - **[throttlebounce](https://github.com/JaviLianes8/throttlebounce)** · typed throttle and debounce decorators · [PyPI](https://pypi.org/project/throttlebounce/)
-- **[timedbatch](https://github.com/JaviLianes8/timedbatch)** · batch items by count and time window
+- **timedbatch** · batch items by count and time window
 
 ### Config, CLI and data
 
@@ -164,11 +164,11 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[dotreach](https://github.com/JaviLianes8/dotreach)** · get and set nested values by dotted path · [PyPI](https://pypi.org/project/dotreach/)
 - **[envname](https://github.com/JaviLianes8/envname)** · validate and sanitize environment variable names
 - **[json-pretty-diff](https://github.com/JaviLianes8/json-pretty-diff)** · human-readable structural diff of two JSON documents · [PyPI](https://pypi.org/project/json-pretty-diff/)
-- **[logfmtkv](https://github.com/JaviLianes8/logfmtkv)** · parse and serialize logfmt key=value lines
-- **[postalcheck](https://github.com/JaviLianes8/postalcheck)** · validate and normalize postal codes by country
+- **logfmtkv** · parse and serialize logfmt key=value lines
+- **postalcheck** · validate and normalize postal codes by country
 - **[shtemplate](https://github.com/JaviLianes8/shtemplate)** · POSIX shell-style string expansion over a mapping
 - **[typedenv](https://github.com/JaviLianes8/typedenv)** · typed reader for environment variables
-- **[typedmultidict](https://github.com/JaviLianes8/typedmultidict)** · typed ordered multi-value dictionary
+- **typedmultidict** · typed ordered multi-value dictionary
 
 
 ## Writing
