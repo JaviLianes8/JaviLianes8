@@ -46,15 +46,15 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 ### LabVIEW bridge
 
 - **[lvbitpack](https://github.com/JaviLianes8/lvbitpack)** · pack LabVIEW boolean arrays to bits
-- **[lvconfig](https://github.com/JaviLianes8/lvconfig)** · read and write LabVIEW config files
-- **[lverror](https://github.com/JaviLianes8/lverror)** · look up LabVIEW error codes offline
+- **[lvconfig](https://github.com/JaviLianes8/lvconfig)** · read and write LabVIEW config files · [PyPI](https://pypi.org/project/lvconfig/)
+- **[lverror](https://github.com/JaviLianes8/lverror)** · look up LabVIEW error codes offline · [PyPI](https://pypi.org/project/lverror/)
 - **[lvext](https://github.com/JaviLianes8/lvext)** · pack 80-bit extended-precision floats
-- **[lvflatten](https://github.com/JaviLianes8/lvflatten)** · codec for LabVIEW Flatten To String
+- **[lvflatten](https://github.com/JaviLianes8/lvflatten)** · codec for LabVIEW Flatten To String · [PyPI](https://pypi.org/project/lvflatten/)
 - **[lvfxp](https://github.com/JaviLianes8/lvfxp)** · encode and decode LabVIEW fixed-point numbers
 - **[lvjson](https://github.com/JaviLianes8/lvjson)** · normalise LabVIEW Flatten To JSON output
 - **[lvmio](https://github.com/JaviLianes8/lvmio)** · read and write LabVIEW .lvm files
 - **[lvpath](https://github.com/JaviLianes8/lvpath)** · convert LabVIEW paths to native paths
-- **[lvtime](https://github.com/JaviLianes8/lvtime)** · LabVIEW 128-bit timestamp to datetime
+- **[lvtime](https://github.com/JaviLianes8/lvtime)** · LabVIEW 128-bit timestamp to datetime · [PyPI](https://pypi.org/project/lvtime/)
 - **[lvtypedesc](https://github.com/JaviLianes8/lvtypedesc)** · parse LabVIEW type-descriptor byte strings
 - **[lvxml](https://github.com/JaviLianes8/lvxml)** · codec for LabVIEW Flatten To XML
 - **[tdmread](https://github.com/JaviLianes8/tdmread)** · read NI TDM and TDX files
