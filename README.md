@@ -72,9 +72,9 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[hstsheader](https://github.com/JaviLianes8/hstsheader)** · parse and build the Strict-Transport-Security header
 - **[httpquoted](https://github.com/JaviLianes8/httpquoted)** · codec for the HTTP quoted-string primitive
 - **[httprange](https://github.com/JaviLianes8/httprange)** · parse and build Range and Content-Range headers
-- **listunsub** · parse and build email List-Unsubscribe headers
-- **mediaparse** · parse media type and Content-Type headers
-- **permspolicy** · parse and build the Permissions-Policy header
+- **[listunsub](https://github.com/JaviLianes8/listunsub)** · parse and build email List-Unsubscribe headers
+- **[mediaparse](https://github.com/JaviLianes8/mediaparse)** · parse media type and Content-Type headers
+- **[permspolicy](https://github.com/JaviLianes8/permspolicy)** · parse and build the Permissions-Policy header
 - **preferhdr** · parse and build Prefer and Preference-Applied headers
 - **priorityheader** · parse and build the Priority header
 - **[restful-checker](https://github.com/JaviLianes8/restful-checker)** · audits a REST API's design and reports issues · [PyPI](https://pypi.org/project/restful-checker/)
@@ -88,8 +88,8 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 
 - **[emailsyntax](https://github.com/JaviLianes8/emailsyntax)** · syntax-only email validation and normalization
 - **[geouri](https://github.com/JaviLianes8/geouri)** · parse and build geo: URIs
-- **mailtourl** · parse and build mailto: URIs
-- **osc8link** · build, detect and strip OSC 8 hyperlinks
+- **[mailtourl](https://github.com/JaviLianes8/mailtourl)** · parse and build mailto: URIs
+- **[osc8link](https://github.com/JaviLianes8/osc8link)** · build, detect and strip OSC 8 hyperlinks
 - **srcset** · parse and build the HTML srcset attribute
 - **teluri** · parse and build tel: URIs
 - **urlsyntax** · syntax-only HTTP URL validation and normalization
@@ -120,7 +120,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[compactnum](https://github.com/JaviLianes8/compactnum)** · format and parse compact numbers (1.2k, 3.5M)
 - **[indgroup](https://github.com/JaviLianes8/indgroup)** · format numbers in lakh and crore grouping
 - **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists
-- **moneyparse** · parse money strings into exact Decimal amounts
+- **[moneyparse](https://github.com/JaviLianes8/moneyparse)** · parse money strings into exact Decimal amounts
 - **[sigfigs](https://github.com/JaviLianes8/sigfigs)** · significant-figures rounding and formatting
 - **wordsnum** · parse spelled-out English numbers to int or float
 
@@ -128,7 +128,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 
 - **[busdays](https://github.com/JaviLianes8/busdays)** · business-day arithmetic with weekend and holiday masks
 - **[durospan](https://github.com/JaviLianes8/durospan)** · convert human durations to and from seconds
-- **nthweekday** · find the nth weekday of a month
+- **[nthweekday](https://github.com/JaviLianes8/nthweekday)** · find the nth weekday of a month
 - **stepdates** · iterate dates by day, week, month or year
 - **tzoffset** · parse and format numeric UTC offsets
 
@@ -151,7 +151,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[deadliner](https://github.com/JaviLianes8/deadliner)** · monotonic deadline and time-budget primitive
 - **[keyedlock](https://github.com/JaviLianes8/keyedlock)** · lock by key, parallel across different keys
 - **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives
-- **periodictimer** · drift-free repeating timer on a thread
+- **[periodictimer](https://github.com/JaviLianes8/periodictimer)** · drift-free repeating timer on a thread
 - **[taplimit](https://github.com/JaviLianes8/taplimit)** · small typed token-bucket rate limiter · [PyPI](https://pypi.org/project/taplimit/)
 - **threadfan** · ordered parallel map over a thread pool
 - **[throttlebounce](https://github.com/JaviLianes8/throttlebounce)** · typed throttle and debounce decorators · [PyPI](https://pypi.org/project/throttlebounce/)
@@ -164,8 +164,8 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[dotreach](https://github.com/JaviLianes8/dotreach)** · get and set nested values by dotted path · [PyPI](https://pypi.org/project/dotreach/)
 - **[envname](https://github.com/JaviLianes8/envname)** · validate and sanitize environment variable names
 - **[json-pretty-diff](https://github.com/JaviLianes8/json-pretty-diff)** · human-readable structural diff of two JSON documents · [PyPI](https://pypi.org/project/json-pretty-diff/)
-- **logfmtkv** · parse and serialize logfmt key=value lines
-- **postalcheck** · validate and normalize postal codes by country
+- **[logfmtkv](https://github.com/JaviLianes8/logfmtkv)** · parse and serialize logfmt key=value lines
+- **[postalcheck](https://github.com/JaviLianes8/postalcheck)** · validate and normalize postal codes by country
 - **[shtemplate](https://github.com/JaviLianes8/shtemplate)** · POSIX shell-style string expansion over a mapping
 - **[typedenv](https://github.com/JaviLianes8/typedenv)** · typed reader for environment variables
 - **typedmultidict** · typed ordered multi-value dictionary
