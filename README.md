@@ -48,7 +48,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[lvbitpack](https://github.com/JaviLianes8/lvbitpack)** · pack LabVIEW boolean arrays to bits
 - **[lvconfig](https://github.com/JaviLianes8/lvconfig)** · read and write LabVIEW config files · [PyPI](https://pypi.org/project/lvconfig/)
 - **[lverror](https://github.com/JaviLianes8/lverror)** · look up LabVIEW error codes offline · [PyPI](https://pypi.org/project/lverror/)
-- **[lvext](https://github.com/JaviLianes8/lvext)** · pack 80-bit extended-precision floats
+- **[lvext](https://github.com/JaviLianes8/lvext)** · pack 80-bit extended-precision floats · [PyPI](https://pypi.org/project/lvext/)
 - **[lvflatten](https://github.com/JaviLianes8/lvflatten)** · codec for LabVIEW Flatten To String · [PyPI](https://pypi.org/project/lvflatten/)
 - **[lvfxp](https://github.com/JaviLianes8/lvfxp)** · encode and decode LabVIEW fixed-point numbers · [PyPI](https://pypi.org/project/lvfxp/)
 - **[lvjson](https://github.com/JaviLianes8/lvjson)** · normalise LabVIEW Flatten To JSON output · [PyPI](https://pypi.org/project/lvjson/)
