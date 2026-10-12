@@ -55,7 +55,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[lvmio](https://github.com/JaviLianes8/lvmio)** · read and write LabVIEW .lvm files
 - **[lvpath](https://github.com/JaviLianes8/lvpath)** · convert LabVIEW paths to native paths
 - **[lvtime](https://github.com/JaviLianes8/lvtime)** · LabVIEW 128-bit timestamp to datetime · [PyPI](https://pypi.org/project/lvtime/)
-- **[lvtypedesc](https://github.com/JaviLianes8/lvtypedesc)** · parse LabVIEW type-descriptor byte strings
+- **[lvtypedesc](https://github.com/JaviLianes8/lvtypedesc)** · parse LabVIEW type-descriptor byte strings · [PyPI](https://pypi.org/project/lvtypedesc/)
 - **[lvxml](https://github.com/JaviLianes8/lvxml)** · codec for LabVIEW Flatten To XML
 - **[tdmread](https://github.com/JaviLianes8/tdmread)** · read NI TDM and TDX files
 
