@@ -82,7 +82,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[servertiming](https://github.com/JaviLianes8/servertiming)** · build and parse the Server-Timing header
 - **[setcookie](https://github.com/JaviLianes8/setcookie)** · parse and build a single Set-Cookie header
 - **[viaheader](https://github.com/JaviLianes8/viaheader)** · parse and build the HTTP Via header
-- **weblink** · parse and build the HTTP Link header
+- **[weblink](https://github.com/JaviLianes8/weblink)** · parse and build the HTTP Link header
 
 ### URIs and links
 
@@ -111,7 +111,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[stripcontrol](https://github.com/JaviLianes8/stripcontrol)** · remove or detect control characters in text
 - **[tabstops](https://github.com/JaviLianes8/tabstops)** · expand and unexpand tabs by column
 - **[unidash](https://github.com/JaviLianes8/unidash)** · fold Unicode punctuation to plain ASCII
-- **zerowidth** · detect and strip zero-width characters
+- **[zerowidth](https://github.com/JaviLianes8/zerowidth)** · detect and strip zero-width characters
 
 ### Numbers and units
 
@@ -122,7 +122,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists
 - **[moneyparse](https://github.com/JaviLianes8/moneyparse)** · parse money strings into exact Decimal amounts
 - **[sigfigs](https://github.com/JaviLianes8/sigfigs)** · significant-figures rounding and formatting
-- **wordsnum** · parse spelled-out English numbers to int or float
+- **[wordsnum](https://github.com/JaviLianes8/wordsnum)** · parse spelled-out English numbers to int or float
 
 ### Dates and time
 
