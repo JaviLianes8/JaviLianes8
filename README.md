@@ -81,7 +81,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[retryheader](https://github.com/JaviLianes8/retryheader)** · parse and build the Retry-After header
 - **[servertiming](https://github.com/JaviLianes8/servertiming)** · build and parse the Server-Timing header
 - **[setcookie](https://github.com/JaviLianes8/setcookie)** · parse and build a single Set-Cookie header
-- **viaheader** · parse and build the HTTP Via header
+- **[viaheader](https://github.com/JaviLianes8/viaheader)** · parse and build the HTTP Via header
 - **weblink** · parse and build the HTTP Link header
 
 ### URIs and links
@@ -91,8 +91,8 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[mailtourl](https://github.com/JaviLianes8/mailtourl)** · parse and build mailto: URIs
 - **[osc8link](https://github.com/JaviLianes8/osc8link)** · build, detect and strip OSC 8 hyperlinks
 - **[srcset](https://github.com/JaviLianes8/srcset)** · parse and build the HTML srcset attribute
-- **teluri** · parse and build tel: URIs
-- **urlsyntax** · syntax-only HTTP URL validation and normalization
+- **[teluri](https://github.com/JaviLianes8/teluri)** · parse and build tel: URIs
+- **[urlsyntax](https://github.com/JaviLianes8/urlsyntax)** · syntax-only HTTP URL validation and normalization
 
 ### Text and encoding
 
@@ -108,9 +108,9 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[idcheck](https://github.com/JaviLianes8/idcheck)** · validate and parse UUID and ULID strings
 - **[secretmask](https://github.com/JaviLianes8/secretmask)** · redact secrets in strings and dicts before logging
 - **[sniffbom](https://github.com/JaviLianes8/sniffbom)** · detect, name and strip a Unicode byte-order mark
-- **stripcontrol** · remove or detect control characters in text
-- **tabstops** · expand and unexpand tabs by column
-- **unidash** · fold Unicode punctuation to plain ASCII
+- **[stripcontrol](https://github.com/JaviLianes8/stripcontrol)** · remove or detect control characters in text
+- **[tabstops](https://github.com/JaviLianes8/tabstops)** · expand and unexpand tabs by column
+- **[unidash](https://github.com/JaviLianes8/unidash)** · fold Unicode punctuation to plain ASCII
 - **zerowidth** · detect and strip zero-width characters
 
 ### Numbers and units
@@ -130,7 +130,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[durospan](https://github.com/JaviLianes8/durospan)** · convert human durations to and from seconds
 - **[nthweekday](https://github.com/JaviLianes8/nthweekday)** · find the nth weekday of a month
 - **[stepdates](https://github.com/JaviLianes8/stepdates)** · iterate dates by day, week, month or year
-- **tzoffset** · parse and format numeric UTC offsets
+- **[tzoffset](https://github.com/JaviLianes8/tzoffset)** · parse and format numeric UTC offsets
 
 ### Files and paths
 
@@ -153,9 +153,9 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives
 - **[periodictimer](https://github.com/JaviLianes8/periodictimer)** · drift-free repeating timer on a thread
 - **[taplimit](https://github.com/JaviLianes8/taplimit)** · small typed token-bucket rate limiter · [PyPI](https://pypi.org/project/taplimit/)
-- **threadfan** · ordered parallel map over a thread pool
+- **[threadfan](https://github.com/JaviLianes8/threadfan)** · ordered parallel map over a thread pool
 - **[throttlebounce](https://github.com/JaviLianes8/throttlebounce)** · typed throttle and debounce decorators · [PyPI](https://pypi.org/project/throttlebounce/)
-- **timedbatch** · batch items by count and time window
+- **[timedbatch](https://github.com/JaviLianes8/timedbatch)** · batch items by count and time window
 
 ### Config, CLI and data
 
@@ -168,7 +168,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[postalcheck](https://github.com/JaviLianes8/postalcheck)** · validate and normalize postal codes by country
 - **[shtemplate](https://github.com/JaviLianes8/shtemplate)** · POSIX shell-style string expansion over a mapping
 - **[typedenv](https://github.com/JaviLianes8/typedenv)** · typed reader for environment variables
-- **typedmultidict** · typed ordered multi-value dictionary
+- **[typedmultidict](https://github.com/JaviLianes8/typedmultidict)** · typed ordered multi-value dictionary
 
 
 ## Writing
