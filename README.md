@@ -53,7 +53,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[lvfxp](https://github.com/JaviLianes8/lvfxp)** · encode and decode LabVIEW fixed-point numbers · [PyPI](https://pypi.org/project/lvfxp/)
 - **[lvjson](https://github.com/JaviLianes8/lvjson)** · normalise LabVIEW Flatten To JSON output · [PyPI](https://pypi.org/project/lvjson/)
 - **[lvmio](https://github.com/JaviLianes8/lvmio)** · read and write LabVIEW .lvm files · [PyPI](https://pypi.org/project/lvmio/)
-- **[lvpath](https://github.com/JaviLianes8/lvpath)** · convert LabVIEW paths to native paths
+- **[lvpath](https://github.com/JaviLianes8/lvpath)** · convert LabVIEW paths to native paths · [PyPI](https://pypi.org/project/lvpath/)
 - **[lvtime](https://github.com/JaviLianes8/lvtime)** · LabVIEW 128-bit timestamp to datetime · [PyPI](https://pypi.org/project/lvtime/)
 - **[lvtypedesc](https://github.com/JaviLianes8/lvtypedesc)** · parse LabVIEW type-descriptor byte strings · [PyPI](https://pypi.org/project/lvtypedesc/)
 - **[lvxml](https://github.com/JaviLianes8/lvxml)** · codec for LabVIEW Flatten To XML · [PyPI](https://pypi.org/project/lvxml/)
