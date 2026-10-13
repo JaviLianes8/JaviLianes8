@@ -57,7 +57,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[lvtime](https://github.com/JaviLianes8/lvtime)** · LabVIEW 128-bit timestamp to datetime · [PyPI](https://pypi.org/project/lvtime/)
 - **[lvtypedesc](https://github.com/JaviLianes8/lvtypedesc)** · parse LabVIEW type-descriptor byte strings · [PyPI](https://pypi.org/project/lvtypedesc/)
 - **[lvxml](https://github.com/JaviLianes8/lvxml)** · codec for LabVIEW Flatten To XML · [PyPI](https://pypi.org/project/lvxml/)
-- **[tdmread](https://github.com/JaviLianes8/tdmread)** · read NI TDM and TDX files
+- **[tdmread](https://github.com/JaviLianes8/tdmread)** · read NI TDM and TDX files · [PyPI](https://pypi.org/project/tdmread/)
 
 ### HTTP and web headers
 
