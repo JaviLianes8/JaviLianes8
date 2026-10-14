@@ -150,7 +150,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[calltimeout](https://github.com/JaviLianes8/calltimeout)** · run a callable with a wall-clock timeout
 - **[deadliner](https://github.com/JaviLianes8/deadliner)** · monotonic deadline and time-budget primitive
 - **[keyedlock](https://github.com/JaviLianes8/keyedlock)** · lock by key, parallel across different keys
-- **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives
+- **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives · [PyPI](https://pypi.org/project/latchkit/)
 - **[periodictimer](https://github.com/JaviLianes8/periodictimer)** · drift-free repeating timer on a thread
 - **[taplimit](https://github.com/JaviLianes8/taplimit)** · small typed token-bucket rate limiter · [PyPI](https://pypi.org/project/taplimit/)
 - **[threadfan](https://github.com/JaviLianes8/threadfan)** · ordered parallel map over a thread pool
