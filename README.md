@@ -146,7 +146,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 ### Concurrency and control flow
 
 - **[atomicint](https://github.com/JaviLianes8/atomicint)** · thread-safe atomic integer
-- **[backoffs](https://github.com/JaviLianes8/backoffs)** · pure backoff delay iterator with jitter
+- **[backoffs](https://github.com/JaviLianes8/backoffs)** · pure backoff delay iterator with jitter · [PyPI](https://pypi.org/project/backoffs/)
 - **[calltimeout](https://github.com/JaviLianes8/calltimeout)** · run a callable with a wall-clock timeout
 - **[deadliner](https://github.com/JaviLianes8/deadliner)** · monotonic deadline and time-budget primitive
 - **[keyedlock](https://github.com/JaviLianes8/keyedlock)** · lock by key, parallel across different keys
