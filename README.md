@@ -168,7 +168,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[postalcheck](https://github.com/JaviLianes8/postalcheck)** · validate and normalize postal codes by country
 - **[shtemplate](https://github.com/JaviLianes8/shtemplate)** · POSIX shell-style string expansion over a mapping
 - **[typedenv](https://github.com/JaviLianes8/typedenv)** · typed reader for environment variables
-- **[typedmultidict](https://github.com/JaviLianes8/typedmultidict)** · typed ordered multi-value dictionary
+- **[typedmultidict](https://github.com/JaviLianes8/typedmultidict)** · typed ordered multi-value dictionary · [PyPI](https://pypi.org/project/typedmultidict/)
 
 
 ## Writing
