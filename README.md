@@ -45,7 +45,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 
 ### LabVIEW bridge
 
-- **[lvbitpack](https://github.com/JaviLianes8/lvbitpack)** · pack LabVIEW boolean arrays to bits
+- **[lvbitpack](https://github.com/JaviLianes8/lvbitpack)** · pack LabVIEW boolean arrays to bits · [PyPI](https://pypi.org/project/lvbitpack/)
 - **[lvconfig](https://github.com/JaviLianes8/lvconfig)** · read and write LabVIEW config files · [PyPI](https://pypi.org/project/lvconfig/)
 - **[lverror](https://github.com/JaviLianes8/lverror)** · look up LabVIEW error codes offline · [PyPI](https://pypi.org/project/lverror/)
 - **[lvext](https://github.com/JaviLianes8/lvext)** · pack 80-bit extended-precision floats · [PyPI](https://pypi.org/project/lvext/)
