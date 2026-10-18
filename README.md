@@ -68,7 +68,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[contentdigest](https://github.com/JaviLianes8/contentdigest)** · build and verify Content-Digest headers · [PyPI](https://pypi.org/project/contentdigest/)
 - **[contentdisp](https://github.com/JaviLianes8/contentdisp)** · parse and build Content-Disposition headers · [PyPI](https://pypi.org/project/contentdisp/)
 - **[etag](https://github.com/JaviLianes8/etag)** · create, parse and compare HTTP ETags · [PyPI](https://pypi.org/project/etag/)
-- **[forwarded](https://github.com/JaviLianes8/forwarded)** · parse and build the Forwarded header
+- **[forwarded](https://github.com/JaviLianes8/forwarded)** · parse and build the Forwarded header · [PyPI](https://pypi.org/project/forwarded/)
 - **[hstsheader](https://github.com/JaviLianes8/hstsheader)** · parse and build the Strict-Transport-Security header
 - **[httpquoted](https://github.com/JaviLianes8/httpquoted)** · codec for the HTTP quoted-string primitive · [PyPI](https://pypi.org/project/httpquoted/)
 - **[httprange](https://github.com/JaviLianes8/httprange)** · parse and build Range and Content-Range headers · [PyPI](https://pypi.org/project/httprange/)
