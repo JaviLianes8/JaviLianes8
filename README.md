@@ -66,7 +66,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[ccdirectives](https://github.com/JaviLianes8/ccdirectives)** · parse and build the Cache-Control header · [PyPI](https://pypi.org/project/ccdirectives/)
 - **[chunkedte](https://github.com/JaviLianes8/chunkedte)** · codec for HTTP/1.1 chunked transfer-encoding
 - **[contentdigest](https://github.com/JaviLianes8/contentdigest)** · build and verify Content-Digest headers
-- **[contentdisp](https://github.com/JaviLianes8/contentdisp)** · parse and build Content-Disposition headers
+- **[contentdisp](https://github.com/JaviLianes8/contentdisp)** · parse and build Content-Disposition headers · [PyPI](https://pypi.org/project/contentdisp/)
 - **[etag](https://github.com/JaviLianes8/etag)** · create, parse and compare HTTP ETags · [PyPI](https://pypi.org/project/etag/)
 - **[forwarded](https://github.com/JaviLianes8/forwarded)** · parse and build the Forwarded header
 - **[hstsheader](https://github.com/JaviLianes8/hstsheader)** · parse and build the Strict-Transport-Security header
