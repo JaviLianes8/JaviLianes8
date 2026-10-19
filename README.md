@@ -80,7 +80,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[restful-checker](https://github.com/JaviLianes8/restful-checker)** · audits a REST API's design and reports issues · [PyPI](https://pypi.org/project/restful-checker/)
 - **[retryheader](https://github.com/JaviLianes8/retryheader)** · parse and build the Retry-After header · [PyPI](https://pypi.org/project/retryheader/)
 - **[servertiming](https://github.com/JaviLianes8/servertiming)** · build and parse the Server-Timing header
-- **[setcookie](https://github.com/JaviLianes8/setcookie)** · parse and build a single Set-Cookie header
+- **[setcookie](https://github.com/JaviLianes8/setcookie)** · parse and build a single Set-Cookie header · [PyPI](https://pypi.org/project/setcookie/)
 - **[viaheader](https://github.com/JaviLianes8/viaheader)** · parse and build the HTTP Via header
 - **[weblink](https://github.com/JaviLianes8/weblink)** · parse and build the HTTP Link header
 
