@@ -61,7 +61,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 
 ### HTTP and web headers
 
-- **[altsvc](https://github.com/JaviLianes8/altsvc)** · parse and build the Alt-Svc header
+- **[altsvc](https://github.com/JaviLianes8/altsvc)** · parse and build the Alt-Svc header · [PyPI](https://pypi.org/project/altsvc/)
 - **[authchallenge](https://github.com/JaviLianes8/authchallenge)** · parse WWW-Authenticate and Authorization headers · [PyPI](https://pypi.org/project/authchallenge/)
 - **[ccdirectives](https://github.com/JaviLianes8/ccdirectives)** · parse and build the Cache-Control header · [PyPI](https://pypi.org/project/ccdirectives/)
 - **[chunkedte](https://github.com/JaviLianes8/chunkedte)** · codec for HTTP/1.1 chunked transfer-encoding · [PyPI](https://pypi.org/project/chunkedte/)
