@@ -76,7 +76,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[mediaparse](https://github.com/JaviLianes8/mediaparse)** · parse media type and Content-Type headers · [PyPI](https://pypi.org/project/mediaparse/)
 - **[permspolicy](https://github.com/JaviLianes8/permspolicy)** · parse and build the Permissions-Policy header
 - **[preferhdr](https://github.com/JaviLianes8/preferhdr)** · parse and build Prefer and Preference-Applied headers · [PyPI](https://pypi.org/project/preferhdr/)
-- **[priorityheader](https://github.com/JaviLianes8/priorityheader)** · parse and build the Priority header
+- **[priorityheader](https://github.com/JaviLianes8/priorityheader)** · parse and build the Priority header · [PyPI](https://pypi.org/project/priorityheader/)
 - **[restful-checker](https://github.com/JaviLianes8/restful-checker)** · audits a REST API's design and reports issues · [PyPI](https://pypi.org/project/restful-checker/)
 - **[retryheader](https://github.com/JaviLianes8/retryheader)** · parse and build the Retry-After header · [PyPI](https://pypi.org/project/retryheader/)
 - **[servertiming](https://github.com/JaviLianes8/servertiming)** · build and parse the Server-Timing header
