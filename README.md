@@ -74,7 +74,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[httprange](https://github.com/JaviLianes8/httprange)** · parse and build Range and Content-Range headers · [PyPI](https://pypi.org/project/httprange/)
 - **[listunsub](https://github.com/JaviLianes8/listunsub)** · parse and build email List-Unsubscribe headers
 - **[mediaparse](https://github.com/JaviLianes8/mediaparse)** · parse media type and Content-Type headers · [PyPI](https://pypi.org/project/mediaparse/)
-- **[permspolicy](https://github.com/JaviLianes8/permspolicy)** · parse and build the Permissions-Policy header
+- **[permspolicy](https://github.com/JaviLianes8/permspolicy)** · parse and build the Permissions-Policy header · [PyPI](https://pypi.org/project/permspolicy/)
 - **[preferhdr](https://github.com/JaviLianes8/preferhdr)** · parse and build Prefer and Preference-Applied headers · [PyPI](https://pypi.org/project/preferhdr/)
 - **[priorityheader](https://github.com/JaviLianes8/priorityheader)** · parse and build the Priority header · [PyPI](https://pypi.org/project/priorityheader/)
 - **[restful-checker](https://github.com/JaviLianes8/restful-checker)** · audits a REST API's design and reports issues · [PyPI](https://pypi.org/project/restful-checker/)
