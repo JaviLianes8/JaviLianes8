@@ -96,7 +96,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 
 ### Text and encoding
 
-- **[bytetrunc](https://github.com/JaviLianes8/bytetrunc)** · truncate a string to a UTF-8 byte limit
+- **[bytetrunc](https://github.com/JaviLianes8/bytetrunc)** · truncate a string to a UTF-8 byte limit · [PyPI](https://pypi.org/project/bytetrunc/)
 - **[cellstr](https://github.com/JaviLianes8/cellstr)** · display-width aware len, slice and pad
 - **[colfit](https://github.com/JaviLianes8/colfit)** · arrange strings into fitted terminal columns
 - **[colorsupport](https://github.com/JaviLianes8/colorsupport)** · detect a terminal stream color level
