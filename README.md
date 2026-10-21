@@ -92,7 +92,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[osc8link](https://github.com/JaviLianes8/osc8link)** · build, detect and strip OSC 8 hyperlinks
 - **[srcset](https://github.com/JaviLianes8/srcset)** · parse and build the HTML srcset attribute
 - **[teluri](https://github.com/JaviLianes8/teluri)** · parse and build tel: URIs
-- **[urlsyntax](https://github.com/JaviLianes8/urlsyntax)** · syntax-only HTTP URL validation and normalization
+- **[urlsyntax](https://github.com/JaviLianes8/urlsyntax)** · syntax-only HTTP URL validation and normalization · [PyPI](https://pypi.org/project/urlsyntax/)
 
 ### Text and encoding
 
