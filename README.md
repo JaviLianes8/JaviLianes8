@@ -72,7 +72,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[hstsheader](https://github.com/JaviLianes8/hstsheader)** · parse and build the Strict-Transport-Security header · [PyPI](https://pypi.org/project/hstsheader/)
 - **[httpquoted](https://github.com/JaviLianes8/httpquoted)** · codec for the HTTP quoted-string primitive · [PyPI](https://pypi.org/project/httpquoted/)
 - **[httprange](https://github.com/JaviLianes8/httprange)** · parse and build Range and Content-Range headers · [PyPI](https://pypi.org/project/httprange/)
-- **[listunsub](https://github.com/JaviLianes8/listunsub)** · parse and build email List-Unsubscribe headers
+- **[listunsub](https://github.com/JaviLianes8/listunsub)** · parse and build email List-Unsubscribe headers · [PyPI](https://pypi.org/project/listunsub/)
 - **[mediaparse](https://github.com/JaviLianes8/mediaparse)** · parse media type and Content-Type headers · [PyPI](https://pypi.org/project/mediaparse/)
 - **[permspolicy](https://github.com/JaviLianes8/permspolicy)** · parse and build the Permissions-Policy header · [PyPI](https://pypi.org/project/permspolicy/)
 - **[preferhdr](https://github.com/JaviLianes8/preferhdr)** · parse and build Prefer and Preference-Applied headers · [PyPI](https://pypi.org/project/preferhdr/)
