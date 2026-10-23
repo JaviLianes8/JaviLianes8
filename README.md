@@ -100,7 +100,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[cellstr](https://github.com/JaviLianes8/cellstr)** · display-width aware len, slice and pad
 - **[colfit](https://github.com/JaviLianes8/colfit)** · arrange strings into fitted terminal columns
 - **[colorsupport](https://github.com/JaviLianes8/colorsupport)** · detect a terminal stream color level
-- **[crock](https://github.com/JaviLianes8/crock)** · Crockford base32 for bytes and ints
+- **[crock](https://github.com/JaviLianes8/crock)** · Crockford base32 for bytes and ints · [PyPI](https://pypi.org/project/crock/)
 - **[ellipt](https://github.com/JaviLianes8/ellipt)** · truncate strings with a start, middle or end ellipsis
 - **[eolnorm](https://github.com/JaviLianes8/eolnorm)** · detect, normalize and count line endings
 - **[hexrgba](https://github.com/JaviLianes8/hexrgba)** · parse and normalize CSS hex colors
