@@ -86,7 +86,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 
 ### URIs and links
 
-- **[emailsyntax](https://github.com/JaviLianes8/emailsyntax)** · syntax-only email validation and normalization
+- **[emailsyntax](https://github.com/JaviLianes8/emailsyntax)** · syntax-only email validation and normalization · [PyPI](https://pypi.org/project/emailsyntax/)
 - **[geouri](https://github.com/JaviLianes8/geouri)** · parse and build geo: URIs · [PyPI](https://pypi.org/project/geouri/)
 - **[mailtourl](https://github.com/JaviLianes8/mailtourl)** · parse and build mailto: URIs
 - **[osc8link](https://github.com/JaviLianes8/osc8link)** · build, detect and strip OSC 8 hyperlinks
