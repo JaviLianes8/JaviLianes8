@@ -107,7 +107,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[humanjoin](https://github.com/JaviLianes8/humanjoin)** · join strings into a natural-language phrase
 - **[idcheck](https://github.com/JaviLianes8/idcheck)** · validate and parse UUID and ULID strings · [PyPI](https://pypi.org/project/idcheck/)
 - **[secretmask](https://github.com/JaviLianes8/secretmask)** · redact secrets in strings and dicts before logging · [PyPI](https://pypi.org/project/secretmask/)
-- **[sniffbom](https://github.com/JaviLianes8/sniffbom)** · detect, name and strip a Unicode byte-order mark
+- **[sniffbom](https://github.com/JaviLianes8/sniffbom)** · detect, name and strip a Unicode byte-order mark · [PyPI](https://pypi.org/project/sniffbom/)
 - **[stripcontrol](https://github.com/JaviLianes8/stripcontrol)** · remove or detect control characters in text
 - **[tabstops](https://github.com/JaviLianes8/tabstops)** · expand and unexpand tabs by column
 - **[unidash](https://github.com/JaviLianes8/unidash)** · fold Unicode punctuation to plain ASCII
