@@ -104,7 +104,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[ellipt](https://github.com/JaviLianes8/ellipt)** · truncate strings with a start, middle or end ellipsis
 - **[eolnorm](https://github.com/JaviLianes8/eolnorm)** · detect, normalize and count line endings
 - **[hexrgba](https://github.com/JaviLianes8/hexrgba)** · parse and normalize CSS hex colors
-- **[humanjoin](https://github.com/JaviLianes8/humanjoin)** · join strings into a natural-language phrase
+- **[humanjoin](https://github.com/JaviLianes8/humanjoin)** · join strings into a natural-language phrase · [PyPI](https://pypi.org/project/humanjoin/)
 - **[idcheck](https://github.com/JaviLianes8/idcheck)** · validate and parse UUID and ULID strings · [PyPI](https://pypi.org/project/idcheck/)
 - **[secretmask](https://github.com/JaviLianes8/secretmask)** · redact secrets in strings and dicts before logging · [PyPI](https://pypi.org/project/secretmask/)
 - **[sniffbom](https://github.com/JaviLianes8/sniffbom)** · detect, name and strip a Unicode byte-order mark · [PyPI](https://pypi.org/project/sniffbom/)
