@@ -102,7 +102,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[colorsupport](https://github.com/JaviLianes8/colorsupport)** · detect a terminal stream color level
 - **[crock](https://github.com/JaviLianes8/crock)** · Crockford base32 for bytes and ints · [PyPI](https://pypi.org/project/crock/)
 - **[ellipt](https://github.com/JaviLianes8/ellipt)** · truncate strings with a start, middle or end ellipsis · [PyPI](https://pypi.org/project/ellipt/)
-- **[eolnorm](https://github.com/JaviLianes8/eolnorm)** · detect, normalize and count line endings
+- **[eolnorm](https://github.com/JaviLianes8/eolnorm)** · detect, normalize and count line endings · [PyPI](https://pypi.org/project/eolnorm/)
 - **[hexrgba](https://github.com/JaviLianes8/hexrgba)** · parse and normalize CSS hex colors
 - **[humanjoin](https://github.com/JaviLianes8/humanjoin)** · join strings into a natural-language phrase · [PyPI](https://pypi.org/project/humanjoin/)
 - **[idcheck](https://github.com/JaviLianes8/idcheck)** · validate and parse UUID and ULID strings · [PyPI](https://pypi.org/project/idcheck/)
