@@ -159,7 +159,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 
 ### Config, CLI and data
 
-- **[authkeyline](https://github.com/JaviLianes8/authkeyline)** · parse OpenSSH authorized_keys lines into records
+- **[authkeyline](https://github.com/JaviLianes8/authkeyline)** · parse OpenSSH authorized_keys lines into records · [PyPI](https://pypi.org/project/authkeyline/)
 - **[boolish](https://github.com/JaviLianes8/boolish)** · parse truthy and falsy strings to bool · [PyPI](https://pypi.org/project/boolish/)
 - **[dotreach](https://github.com/JaviLianes8/dotreach)** · get and set nested values by dotted path · [PyPI](https://pypi.org/project/dotreach/)
 - **[envname](https://github.com/JaviLianes8/envname)** · validate and sanitize environment variable names · [PyPI](https://pypi.org/project/envname/)
