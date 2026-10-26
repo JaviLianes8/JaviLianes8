@@ -110,7 +110,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[sniffbom](https://github.com/JaviLianes8/sniffbom)** · detect, name and strip a Unicode byte-order mark · [PyPI](https://pypi.org/project/sniffbom/)
 - **[stripcontrol](https://github.com/JaviLianes8/stripcontrol)** · remove or detect control characters in text · [PyPI](https://pypi.org/project/stripcontrol/)
 - **[tabstops](https://github.com/JaviLianes8/tabstops)** · expand and unexpand tabs by column
-- **[unidash](https://github.com/JaviLianes8/unidash)** · fold Unicode punctuation to plain ASCII
+- **[unidash](https://github.com/JaviLianes8/unidash)** · fold Unicode punctuation to plain ASCII · [PyPI](https://pypi.org/project/unidash/)
 - **[zerowidth](https://github.com/JaviLianes8/zerowidth)** · detect and strip zero-width characters · [PyPI](https://pypi.org/project/zerowidth/)
 
 ### Numbers and units
