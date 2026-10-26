@@ -111,7 +111,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[stripcontrol](https://github.com/JaviLianes8/stripcontrol)** · remove or detect control characters in text · [PyPI](https://pypi.org/project/stripcontrol/)
 - **[tabstops](https://github.com/JaviLianes8/tabstops)** · expand and unexpand tabs by column
 - **[unidash](https://github.com/JaviLianes8/unidash)** · fold Unicode punctuation to plain ASCII
-- **[zerowidth](https://github.com/JaviLianes8/zerowidth)** · detect and strip zero-width characters
+- **[zerowidth](https://github.com/JaviLianes8/zerowidth)** · detect and strip zero-width characters · [PyPI](https://pypi.org/project/zerowidth/)
 
 ### Numbers and units
 
