@@ -38,6 +38,7 @@ Some ship on PC and on phones. Each platform links to its own store.
 ## Apps
 
 - **[Confetii](https://lianes8studio.com)** · birthday reminders, one per person &nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6818829611) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jlianes.birthdaynotifier)
+- **[Vestidor](https://lianes8studio.com)** · your closet, outfits and packing, no account (app in Spanish) &nbsp; ![App Store · coming soon](https://img.shields.io/badge/App_Store-coming_soon-0D96F6?style=flat-square&logo=appstore&logoColor=white) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.lianes8.vestidor)
 
 ## Open source: 100 Python libraries
 
