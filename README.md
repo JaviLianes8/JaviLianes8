@@ -167,7 +167,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[json-pretty-diff](https://github.com/JaviLianes8/json-pretty-diff)** · human-readable structural diff of two JSON documents · [PyPI](https://pypi.org/project/json-pretty-diff/)
 - **[logfmtkv](https://github.com/JaviLianes8/logfmtkv)** · parse and serialize logfmt key=value lines
 - **[postalcheck](https://github.com/JaviLianes8/postalcheck)** · validate and normalize postal codes by country · [PyPI](https://pypi.org/project/postalcheck/)
-- **[shtemplate](https://github.com/JaviLianes8/shtemplate)** · POSIX shell-style string expansion over a mapping
+- **[shtemplate](https://github.com/JaviLianes8/shtemplate)** · POSIX shell-style string expansion over a mapping · [PyPI](https://pypi.org/project/shtemplate/)
 - **[typedenv](https://github.com/JaviLianes8/typedenv)** · typed reader for environment variables
 - **[typedmultidict](https://github.com/JaviLianes8/typedmultidict)** · typed ordered multi-value dictionary · [PyPI](https://pypi.org/project/typedmultidict/)
 
