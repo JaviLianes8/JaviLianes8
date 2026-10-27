@@ -100,7 +100,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[bytetrunc](https://github.com/JaviLianes8/bytetrunc)** · truncate a string to a UTF-8 byte limit · [PyPI](https://pypi.org/project/bytetrunc/)
 - **[cellstr](https://github.com/JaviLianes8/cellstr)** · display-width aware len, slice and pad · [PyPI](https://pypi.org/project/cellstr/)
 - **[colfit](https://github.com/JaviLianes8/colfit)** · arrange strings into fitted terminal columns · [PyPI](https://pypi.org/project/colfit/)
-- **[colorsupport](https://github.com/JaviLianes8/colorsupport)** · detect a terminal stream color level
+- **[colorsupport](https://github.com/JaviLianes8/colorsupport)** · detect a terminal stream color level · [PyPI](https://pypi.org/project/colorsupport/)
 - **[crock](https://github.com/JaviLianes8/crock)** · Crockford base32 for bytes and ints · [PyPI](https://pypi.org/project/crock/)
 - **[ellipt](https://github.com/JaviLianes8/ellipt)** · truncate strings with a start, middle or end ellipsis · [PyPI](https://pypi.org/project/ellipt/)
 - **[eolnorm](https://github.com/JaviLianes8/eolnorm)** · detect, normalize and count line endings · [PyPI](https://pypi.org/project/eolnorm/)
