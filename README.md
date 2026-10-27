@@ -165,7 +165,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[dotreach](https://github.com/JaviLianes8/dotreach)** · get and set nested values by dotted path · [PyPI](https://pypi.org/project/dotreach/)
 - **[envname](https://github.com/JaviLianes8/envname)** · validate and sanitize environment variable names · [PyPI](https://pypi.org/project/envname/)
 - **[json-pretty-diff](https://github.com/JaviLianes8/json-pretty-diff)** · human-readable structural diff of two JSON documents · [PyPI](https://pypi.org/project/json-pretty-diff/)
-- **[logfmtkv](https://github.com/JaviLianes8/logfmtkv)** · parse and serialize logfmt key=value lines
+- **[logfmtkv](https://github.com/JaviLianes8/logfmtkv)** · parse and serialize logfmt key=value lines · [PyPI](https://pypi.org/project/logfmtkv/)
 - **[postalcheck](https://github.com/JaviLianes8/postalcheck)** · validate and normalize postal codes by country · [PyPI](https://pypi.org/project/postalcheck/)
 - **[shtemplate](https://github.com/JaviLianes8/shtemplate)** · POSIX shell-style string expansion over a mapping · [PyPI](https://pypi.org/project/shtemplate/)
 - **[typedenv](https://github.com/JaviLianes8/typedenv)** · typed reader for environment variables
