@@ -117,7 +117,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 ### Numbers and units
 
 - **[a1col](https://github.com/JaviLianes8/a1col)** · convert spreadsheet A1 references and indexes
-- **[bytesz](https://github.com/JaviLianes8/bytesz)** · convert byte counts to and from human sizes
+- **[bytesz](https://github.com/JaviLianes8/bytesz)** · convert byte counts to and from human sizes · [PyPI](https://pypi.org/project/bytesz/)
 - **[compactnum](https://github.com/JaviLianes8/compactnum)** · format and parse compact numbers (1.2k, 3.5M)
 - **[indgroup](https://github.com/JaviLianes8/indgroup)** · format numbers in lakh and crore grouping
 - **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists
