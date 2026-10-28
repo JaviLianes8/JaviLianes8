@@ -120,7 +120,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[bytesz](https://github.com/JaviLianes8/bytesz)** · convert byte counts to and from human sizes · [PyPI](https://pypi.org/project/bytesz/)
 - **[compactnum](https://github.com/JaviLianes8/compactnum)** · format and parse compact numbers (1.2k, 3.5M)
 - **[indgroup](https://github.com/JaviLianes8/indgroup)** · format numbers in lakh and crore grouping
-- **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists
+- **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists · [PyPI](https://pypi.org/project/intranges/)
 - **[moneyparse](https://github.com/JaviLianes8/moneyparse)** · parse money strings into exact Decimal amounts
 - **[sigfigs](https://github.com/JaviLianes8/sigfigs)** · significant-figures rounding and formatting
 - **[wordsnum](https://github.com/JaviLianes8/wordsnum)** · parse spelled-out English numbers to int or float
