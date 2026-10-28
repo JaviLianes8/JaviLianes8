@@ -123,7 +123,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists · [PyPI](https://pypi.org/project/intranges/)
 - **[moneyparse](https://github.com/JaviLianes8/moneyparse)** · parse money strings into exact Decimal amounts
 - **[sigfigs](https://github.com/JaviLianes8/sigfigs)** · significant-figures rounding and formatting
-- **[wordsnum](https://github.com/JaviLianes8/wordsnum)** · parse spelled-out English numbers to int or float
+- **[wordsnum](https://github.com/JaviLianes8/wordsnum)** · parse spelled-out English numbers to int or float · [PyPI](https://pypi.org/project/wordsnum/)
 
 ### Dates and time
 
