@@ -141,7 +141,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[followtail](https://github.com/JaviLianes8/followtail)** · follow a growing file like tail -f
 - **[mimeguess](https://github.com/JaviLianes8/mimeguess)** · map file extensions to MIME types
 - **[safejoin](https://github.com/JaviLianes8/safejoin)** · path-traversal-safe joining of base and parts
-- **[shortenpath](https://github.com/JaviLianes8/shortenpath)** · abbreviate a path to fit a width
+- **[shortenpath](https://github.com/JaviLianes8/shortenpath)** · abbreviate a path to fit a width · [PyPI](https://pypi.org/project/shortenpath/)
 - **[walkup](https://github.com/JaviLianes8/walkup)** · walk up directories to find a marker file
 
 ### Concurrency and control flow
