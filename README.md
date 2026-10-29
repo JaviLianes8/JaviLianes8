@@ -119,7 +119,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[a1col](https://github.com/JaviLianes8/a1col)** · convert spreadsheet A1 references and indexes
 - **[bytesz](https://github.com/JaviLianes8/bytesz)** · convert byte counts to and from human sizes · [PyPI](https://pypi.org/project/bytesz/)
 - **[compactnum](https://github.com/JaviLianes8/compactnum)** · format and parse compact numbers (1.2k, 3.5M) · [PyPI](https://pypi.org/project/compactnum/)
-- **[indgroup](https://github.com/JaviLianes8/indgroup)** · format numbers in lakh and crore grouping
+- **[indgroup](https://github.com/JaviLianes8/indgroup)** · format numbers in lakh and crore grouping · [PyPI](https://pypi.org/project/indgroup/)
 - **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists · [PyPI](https://pypi.org/project/intranges/)
 - **[moneyparse](https://github.com/JaviLianes8/moneyparse)** · parse money strings into exact Decimal amounts · [PyPI](https://pypi.org/project/moneyparse/)
 - **[sigfigs](https://github.com/JaviLianes8/sigfigs)** · significant-figures rounding and formatting
