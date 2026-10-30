@@ -104,7 +104,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[crock](https://github.com/JaviLianes8/crock)** · Crockford base32 for bytes and ints · [PyPI](https://pypi.org/project/crock/)
 - **[ellipt](https://github.com/JaviLianes8/ellipt)** · truncate strings with a start, middle or end ellipsis · [PyPI](https://pypi.org/project/ellipt/)
 - **[eolnorm](https://github.com/JaviLianes8/eolnorm)** · detect, normalize and count line endings · [PyPI](https://pypi.org/project/eolnorm/)
-- **[hexrgba](https://github.com/JaviLianes8/hexrgba)** · parse and normalize CSS hex colors
+- **[hexrgba](https://github.com/JaviLianes8/hexrgba)** · parse and normalize CSS hex colors · [PyPI](https://pypi.org/project/hexrgba/)
 - **[humanjoin](https://github.com/JaviLianes8/humanjoin)** · join strings into a natural-language phrase · [PyPI](https://pypi.org/project/humanjoin/)
 - **[idcheck](https://github.com/JaviLianes8/idcheck)** · validate and parse UUID and ULID strings · [PyPI](https://pypi.org/project/idcheck/)
 - **[secretmask](https://github.com/JaviLianes8/secretmask)** · redact secrets in strings and dicts before logging · [PyPI](https://pypi.org/project/secretmask/)
