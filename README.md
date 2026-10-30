@@ -127,7 +127,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 
 ### Dates and time
 
-- **[busdays](https://github.com/JaviLianes8/busdays)** · business-day arithmetic with weekend and holiday masks
+- **[busdays](https://github.com/JaviLianes8/busdays)** · business-day arithmetic with weekend and holiday masks · [PyPI](https://pypi.org/project/busdays/)
 - **[durospan](https://github.com/JaviLianes8/durospan)** · convert human durations to and from seconds · [PyPI](https://pypi.org/project/durospan/)
 - **[nthweekday](https://github.com/JaviLianes8/nthweekday)** · find the nth weekday of a month
 - **[stepdates](https://github.com/JaviLianes8/stepdates)** · iterate dates by day, week, month or year · [PyPI](https://pypi.org/project/stepdates/)
