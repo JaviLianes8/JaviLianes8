@@ -154,7 +154,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives · [PyPI](https://pypi.org/project/latchkit/)
 - **[periodictimer](https://github.com/JaviLianes8/periodictimer)** · drift-free repeating timer on a thread
 - **[taplimit](https://github.com/JaviLianes8/taplimit)** · small typed token-bucket rate limiter · [PyPI](https://pypi.org/project/taplimit/)
-- **[threadfan](https://github.com/JaviLianes8/threadfan)** · ordered parallel map over a thread pool
+- **[threadfan](https://github.com/JaviLianes8/threadfan)** · ordered parallel map over a thread pool · [PyPI](https://pypi.org/project/threadfan/)
 - **[throttlebounce](https://github.com/JaviLianes8/throttlebounce)** · typed throttle and debounce decorators · [PyPI](https://pypi.org/project/throttlebounce/)
 - **[timedbatch](https://github.com/JaviLianes8/timedbatch)** · batch items by count and time window
 
