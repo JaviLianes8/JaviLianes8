@@ -148,7 +148,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 
 - **[atomicint](https://github.com/JaviLianes8/atomicint)** · thread-safe atomic integer
 - **[backoffs](https://github.com/JaviLianes8/backoffs)** · pure backoff delay iterator with jitter · [PyPI](https://pypi.org/project/backoffs/)
-- **[calltimeout](https://github.com/JaviLianes8/calltimeout)** · run a callable with a wall-clock timeout
+- **[calltimeout](https://github.com/JaviLianes8/calltimeout)** · run a callable with a wall-clock timeout · [PyPI](https://pypi.org/project/calltimeout/)
 - **[deadliner](https://github.com/JaviLianes8/deadliner)** · monotonic deadline and time-budget primitive · [PyPI](https://pypi.org/project/deadliner/)
 - **[keyedlock](https://github.com/JaviLianes8/keyedlock)** · lock by key, parallel across different keys
 - **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives · [PyPI](https://pypi.org/project/latchkit/)
