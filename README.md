@@ -156,7 +156,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[taplimit](https://github.com/JaviLianes8/taplimit)** · small typed token-bucket rate limiter · [PyPI](https://pypi.org/project/taplimit/)
 - **[threadfan](https://github.com/JaviLianes8/threadfan)** · ordered parallel map over a thread pool · [PyPI](https://pypi.org/project/threadfan/)
 - **[throttlebounce](https://github.com/JaviLianes8/throttlebounce)** · typed throttle and debounce decorators · [PyPI](https://pypi.org/project/throttlebounce/)
-- **[timedbatch](https://github.com/JaviLianes8/timedbatch)** · batch items by count and time window
+- **[timedbatch](https://github.com/JaviLianes8/timedbatch)** · batch items by count and time window · [PyPI](https://pypi.org/project/timedbatch/)
 
 ### Config, CLI and data
 
