@@ -152,7 +152,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[deadliner](https://github.com/JaviLianes8/deadliner)** · monotonic deadline and time-budget primitive · [PyPI](https://pypi.org/project/deadliner/)
 - **[keyedlock](https://github.com/JaviLianes8/keyedlock)** · lock by key, parallel across different keys · [PyPI](https://pypi.org/project/keyedlock/)
 - **[latchkit](https://github.com/JaviLianes8/latchkit)** · one-shot latch and gate synchronization primitives · [PyPI](https://pypi.org/project/latchkit/)
-- **[periodictimer](https://github.com/JaviLianes8/periodictimer)** · drift-free repeating timer on a thread
+- **[periodictimer](https://github.com/JaviLianes8/periodictimer)** · drift-free repeating timer on a thread · [PyPI](https://pypi.org/project/periodictimer/)
 - **[taplimit](https://github.com/JaviLianes8/taplimit)** · small typed token-bucket rate limiter · [PyPI](https://pypi.org/project/taplimit/)
 - **[threadfan](https://github.com/JaviLianes8/threadfan)** · ordered parallel map over a thread pool · [PyPI](https://pypi.org/project/threadfan/)
 - **[throttlebounce](https://github.com/JaviLianes8/throttlebounce)** · typed throttle and debounce decorators · [PyPI](https://pypi.org/project/throttlebounce/)
