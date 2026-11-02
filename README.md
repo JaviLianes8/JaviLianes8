@@ -136,7 +136,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 ### Files and paths
 
 - **[dirsize](https://github.com/JaviLianes8/dirsize)** · total size and file count of a directory
-- **[dupefind](https://github.com/JaviLianes8/dupefind)** · find duplicate files by staged hashing
+- **[dupefind](https://github.com/JaviLianes8/dupefind)** · find duplicate files by staged hashing · [PyPI](https://pypi.org/project/dupefind/)
 - **[durablewrite](https://github.com/JaviLianes8/durablewrite)** · durable, atomic cross-platform file writes · [PyPI](https://pypi.org/project/durablewrite/)
 - **[followtail](https://github.com/JaviLianes8/followtail)** · follow a growing file like tail -f
 - **[mimeguess](https://github.com/JaviLianes8/mimeguess)** · map file extensions to MIME types
