@@ -140,7 +140,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[durablewrite](https://github.com/JaviLianes8/durablewrite)** · durable, atomic cross-platform file writes · [PyPI](https://pypi.org/project/durablewrite/)
 - **[followtail](https://github.com/JaviLianes8/followtail)** · follow a growing file like tail -f
 - **[mimeguess](https://github.com/JaviLianes8/mimeguess)** · map file extensions to MIME types
-- **[safejoin](https://github.com/JaviLianes8/safejoin)** · path-traversal-safe joining of base and parts
+- **[safejoin](https://github.com/JaviLianes8/safejoin)** · path-traversal-safe joining of base and parts · [PyPI](https://pypi.org/project/safejoin/)
 - **[shortenpath](https://github.com/JaviLianes8/shortenpath)** · abbreviate a path to fit a width · [PyPI](https://pypi.org/project/shortenpath/)
 - **[walkup](https://github.com/JaviLianes8/walkup)** · walk up directories to find a marker file
 
