@@ -80,16 +80,16 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[priorityheader](https://github.com/JaviLianes8/priorityheader)** · parse and build the Priority header · [PyPI](https://pypi.org/project/priorityheader/)
 - **[restful-checker](https://github.com/JaviLianes8/restful-checker)** · audits a REST API's design and reports issues · [PyPI](https://pypi.org/project/restful-checker/)
 - **[retryheader](https://github.com/JaviLianes8/retryheader)** · parse and build the Retry-After header · [PyPI](https://pypi.org/project/retryheader/)
-- **[timingheader](https://github.com/JaviLianes8/timingheader)** · build and parse the Server-Timing header
+- **[timingheader](https://github.com/JaviLianes8/timingheader)** · build and parse the Server-Timing header · [PyPI](https://pypi.org/project/timingheader/)
 - **[setcookie](https://github.com/JaviLianes8/setcookie)** · parse and build a single Set-Cookie header · [PyPI](https://pypi.org/project/setcookie/)
 - **[viaheader](https://github.com/JaviLianes8/viaheader)** · parse and build the HTTP Via header · [PyPI](https://pypi.org/project/viaheader/)
-- **[weblinking](https://github.com/JaviLianes8/weblinking)** · parse and build the HTTP Link header
+- **[weblinking](https://github.com/JaviLianes8/weblinking)** · parse and build the HTTP Link header · [PyPI](https://pypi.org/project/weblinking/)
 
 ### URIs and links
 
 - **[emailsyntax](https://github.com/JaviLianes8/emailsyntax)** · syntax-only email validation and normalization · [PyPI](https://pypi.org/project/emailsyntax/)
 - **[geouri](https://github.com/JaviLianes8/geouri)** · parse and build geo: URIs · [PyPI](https://pypi.org/project/geouri/)
-- **[mailtolink](https://github.com/JaviLianes8/mailtolink)** · parse and build mailto: URIs
+- **[mailtolink](https://github.com/JaviLianes8/mailtolink)** · parse and build mailto: URIs · [PyPI](https://pypi.org/project/mailtolink/)
 - **[osc8link](https://github.com/JaviLianes8/osc8link)** · build, detect and strip OSC 8 hyperlinks · [PyPI](https://pypi.org/project/osc8link/)
 - **[srcset](https://github.com/JaviLianes8/srcset)** · parse and build the HTML srcset attribute · [PyPI](https://pypi.org/project/srcset/)
 - **[teluri](https://github.com/JaviLianes8/teluri)** · parse and build tel: URIs · [PyPI](https://pypi.org/project/teluri/)
@@ -122,14 +122,14 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[indgroup](https://github.com/JaviLianes8/indgroup)** · format numbers in lakh and crore grouping · [PyPI](https://pypi.org/project/indgroup/)
 - **[intranges](https://github.com/JaviLianes8/intranges)** · convert between range strings and int lists · [PyPI](https://pypi.org/project/intranges/)
 - **[moneyparse](https://github.com/JaviLianes8/moneyparse)** · parse money strings into exact Decimal amounts · [PyPI](https://pypi.org/project/moneyparse/)
-- **[figround](https://github.com/JaviLianes8/figround)** · significant-figures rounding and formatting
+- **[figround](https://github.com/JaviLianes8/figround)** · significant-figures rounding and formatting · [PyPI](https://pypi.org/project/figround/)
 - **[wordsnum](https://github.com/JaviLianes8/wordsnum)** · parse spelled-out English numbers to int or float · [PyPI](https://pypi.org/project/wordsnum/)
 
 ### Dates and time
 
 - **[busdays](https://github.com/JaviLianes8/busdays)** · business-day arithmetic with weekend and holiday masks · [PyPI](https://pypi.org/project/busdays/)
 - **[durospan](https://github.com/JaviLianes8/durospan)** · convert human durations to and from seconds · [PyPI](https://pypi.org/project/durospan/)
-- **[monthweekday](https://github.com/JaviLianes8/monthweekday)** · find the nth weekday of a month
+- **[monthweekday](https://github.com/JaviLianes8/monthweekday)** · find the nth weekday of a month · [PyPI](https://pypi.org/project/monthweekday/)
 - **[stepdates](https://github.com/JaviLianes8/stepdates)** · iterate dates by day, week, month or year · [PyPI](https://pypi.org/project/stepdates/)
 - **[tzoffset](https://github.com/JaviLianes8/tzoffset)** · parse and format numeric UTC offsets · [PyPI](https://pypi.org/project/tzoffset/)
 
@@ -139,10 +139,10 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[dupefind](https://github.com/JaviLianes8/dupefind)** · find duplicate files by staged hashing · [PyPI](https://pypi.org/project/dupefind/)
 - **[durablewrite](https://github.com/JaviLianes8/durablewrite)** · durable, atomic cross-platform file writes · [PyPI](https://pypi.org/project/durablewrite/)
 - **[followtail](https://github.com/JaviLianes8/followtail)** · follow a growing file like tail -f · [PyPI](https://pypi.org/project/followtail/)
-- **[mimeatlas](https://github.com/JaviLianes8/mimeatlas)** · map file extensions to MIME types
+- **[mimeatlas](https://github.com/JaviLianes8/mimeatlas)** · map file extensions to MIME types · [PyPI](https://pypi.org/project/mimeatlas/)
 - **[safejoin](https://github.com/JaviLianes8/safejoin)** · path-traversal-safe joining of base and parts · [PyPI](https://pypi.org/project/safejoin/)
 - **[shortenpath](https://github.com/JaviLianes8/shortenpath)** · abbreviate a path to fit a width · [PyPI](https://pypi.org/project/shortenpath/)
-- **[walkupward](https://github.com/JaviLianes8/walkupward)** · walk up directories to find a marker file
+- **[walkupward](https://github.com/JaviLianes8/walkupward)** · walk up directories to find a marker file · [PyPI](https://pypi.org/project/walkupward/)
 
 ### Concurrency and control flow
 
@@ -168,7 +168,7 @@ I keep publishing small, single-purpose Python libraries, each one typed and fre
 - **[logfmtkv](https://github.com/JaviLianes8/logfmtkv)** · parse and serialize logfmt key=value lines · [PyPI](https://pypi.org/project/logfmtkv/)
 - **[postalcheck](https://github.com/JaviLianes8/postalcheck)** · validate and normalize postal codes by country · [PyPI](https://pypi.org/project/postalcheck/)
 - **[shtemplate](https://github.com/JaviLianes8/shtemplate)** · POSIX shell-style string expansion over a mapping · [PyPI](https://pypi.org/project/shtemplate/)
-- **[envread](https://github.com/JaviLianes8/envread)** · typed reader for environment variables
+- **[envread](https://github.com/JaviLianes8/envread)** · typed reader for environment variables · [PyPI](https://pypi.org/project/envread/)
 - **[typedmultidict](https://github.com/JaviLianes8/typedmultidict)** · typed ordered multi-value dictionary · [PyPI](https://pypi.org/project/typedmultidict/)
 
 
